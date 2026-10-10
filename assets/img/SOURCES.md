@@ -18,3 +18,6 @@ images). They are used only to identify the employer on a job card.
 
 Monogram tiles (no image file): CHANEL (site blocked automated download), Saatchi & Saatchi Health
 (only a 32px favicon available).
+
+Added 2026-10-10: michelin.png from https://www.michelinman.com/ (site icon, android-chrome-512x512.png).
+Monogram tiles: fresh (fresh.com blocked automated download), Cartier (cartier.com blocked automated download).

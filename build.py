@@ -212,7 +212,22 @@ def day_page(day, days, root):
     if day.get("notes"):
         notes = ('<aside class="notes"><h2>Also worth knowing</h2><ul>'
                  + "".join(f"<li>{esc(x)}</li>" for x in day["notes"]) + "</ul></aside>")
-    cards = "".join(card_html(j, root) for j in jobs)
+    sections = day.get("sections")
+    if sections:
+        # Grouped page: each section gets its own heading and card grid, in the order listed.
+        blocks = []
+        for sec in sections:
+            sec_jobs = [j for j in jobs if j.get("section") == sec["key"]]
+            if not sec_jobs:
+                continue
+            sub = (f'<p class="section-sub">{esc(sec["intro"])}</p>' if sec.get("intro") else "")
+            blocks.append(f'<section class="day-section" id="sec-{esc(sec["key"])}">'
+                          f'<h2 class="section-head">{esc(sec["title"])} '
+                          f'<span class="section-count">{len(sec_jobs)}</span></h2>{sub}'
+                          f'<div class="cards">{"".join(card_html(j, root) for j in sec_jobs)}</div></section>')
+        main_html = f'<main class="sections">{"".join(blocks)}</main>'
+    else:
+        main_html = f'<main class="cards">{"".join(card_html(j, root) for j in jobs)}</main>'
     return f'''{head(f"{title} · {long_date(day['date'])}", root)}
 <body data-date="{esc(day['date'])}" data-inbox="{INBOX}" data-replyto="{REPLY_TO}">
 {past_days_html(days, day["date"], root)}
@@ -224,9 +239,7 @@ def day_page(day, days, root):
   {intro}
   <p class="hint">Every card has two buttons. <em>Share my thoughts</em> tells me what you liked or didn&rsquo;t, and <em>Tailor my resume for this role</em> asks me for a resume made for that posting. Both send right from this page. You&rsquo;ll see a green &ldquo;Got it &#10003;&rdquo; once I&rsquo;ve received it. Your notes are saved on this device as you type.</p>
 </header>
-<main class="cards">
-{cards}
-</main>
+{main_html}
 {notes}
 {footer(day)}
 <script src="{root}assets/app.js" defer></script>

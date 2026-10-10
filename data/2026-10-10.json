@@ -1,15 +1,161 @@
 {
   "date": "2026-10-10",
-  "checked": "2026-10-09",
-  "title": "Kristen's Top 10",
-  "intro": "Your top 10: US-based roles at French or French-tied companies, with priority on global teams that work with Paris. Big companies are back in; slightly smaller ones break a tie. LA roles come first and anything outside LA is labeled. None of these postings mentions travel to Paris, so I haven't promised it on any of them.",
+  "checked": "2026-10-10",
+  "title": "New today + your top 10",
+  "intro": "Six new leads today, best first, then your top 10 from earlier (all still open when I re-checked them today). LA roles lead and anything outside LA is labeled. None of the new postings mentions travel to Paris, so I haven't promised it.",
+  "sections": [
+    {
+      "key": "new",
+      "title": "New today",
+      "intro": "Found Oct 10. Two are in LA at L'Oréal; #20 is the strongest fit."
+    },
+    {
+      "key": "earlier",
+      "title": "From earlier",
+      "intro": "Your Oct 9 top 10, in the same order. Every one was still open on Oct 10."
+    }
+  ],
   "notes": [
+    "SMCP Group: still nothing that fits. Its US openings are boutique roles plus a few New York office jobs (accounts receivable, allocation planning, executive assistant), none in marketing.",
     "#2 (Youth To The People consumer engagement, El Segundo) is still open if you want another LA option, but it's focused on the US market.",
     "The 160over90 partnerships role (#4) has closed."
   ],
   "jobs": [
     {
+      "number": 20,
+      "title": "Assistant Manager, Global Brand Partnerships (NYX Professional Makeup)",
+      "company": "L'Oréal USA",
+      "location": "El Segundo, CA",
+      "salary": "$77k–$110k base + bonus",
+      "posted": "2026-10-09",
+      "french_tie": "L'Oréal (Paris HQ); NYX's global brand partnerships team.",
+      "travel": "Not mentioned in the posting",
+      "why": "Partnerships is the whole job: spotting collaboration ideas with fandoms, entertainment and communities, building partner proposals and presentations, and keeping timelines and approvals on track across partners and internal teams. It lists no minimum years, just experience in marketing, product development or project coordination, so your partner management at Gartner plus your marketing internships make this the most realistic new LA role. The posting doesn't say whether it's hybrid.",
+      "stretch": false,
+      "url": "https://careers.loreal.com/en/job/el-segundo/assistant-manager-global-brand-partnerships-nyx/3456/45753681536",
+      "image": {
+        "src": "assets/img/loreal.jpg",
+        "kind": "photo",
+        "label": "L'ORÉAL",
+        "source": "https://www.loreal.com/en/ (og:image)"
+      },
       "rank": 1,
+      "section": "new"
+    },
+    {
+      "number": 21,
+      "title": "Coordinator, Social Media",
+      "company": "fresh (LVMH)",
+      "location": "New York",
+      "salary": "$65k–$90k",
+      "posted": "2026-10-10",
+      "french_tie": "fresh is a global skincare brand within LVMH (Paris).",
+      "travel": "Not mentioned in the posting",
+      "why": "You'd support fresh's Global Marketing Communications team on global campaigns and launches, keeping global content calendars and reporting on social activations. It asks for 2 years of social media experience and counts internships, so your Windward and Madison Avenue Events internships and the Sensations social work all count. It's a coordinator-level role focused on social, so it's a step in rather than a step up.",
+      "stretch": false,
+      "url": "https://www.linkedin.com/jobs/view/coordinator-social-media-at-fresh-4475271642",
+      "image": {
+        "kind": "monogram",
+        "text": "fresh",
+        "sub": "LVMH",
+        "bg": "#efe6d8",
+        "fg": "#22201d"
+      },
+      "rank": 2,
+      "section": "new"
+    },
+    {
+      "number": 22,
+      "title": "Manager, TikTok Shop Content (Urban Decay)",
+      "company": "L'Oréal USA",
+      "location": "El Segundo, CA",
+      "work_arrangement": "Hybrid (3 days in office, 2 from home)",
+      "salary": "$90.2k–$128.5k",
+      "posted": "2026-10-08",
+      "french_tie": "L'Oréal (Paris HQ), L'Oréal Luxe division.",
+      "travel": "Not mentioned in the posting",
+      "why": "An LA hybrid role that runs Urban Decay's TikTok content calendar and works with its creator and affiliate network, with webinars and live streams in the mix.",
+      "stretch": true,
+      "stretch_note": "It asks for 3-5 years plus TikTok Shop experience, and you'd be shooting and editing short videos yourself.",
+      "url": "https://careers.loreal.com/en/job/el-segundo/manager-tik-tok-shop-content-urban-decay/3456/45684680704",
+      "image": {
+        "src": "assets/img/loreal.jpg",
+        "kind": "photo",
+        "label": "L'ORÉAL",
+        "source": "https://www.loreal.com/en/ (og:image)"
+      },
+      "rank": 3,
+      "section": "new"
+    },
+    {
+      "number": 23,
+      "title": "Manager, Brand Marketing, Kiehl's US",
+      "company": "L'Oréal USA",
+      "location": "New York (Hudson Yards)",
+      "work_arrangement": "Hybrid (3 days in office, 2 from home)",
+      "salary": "$98.4k–$140.2k",
+      "posted": "2026-10-08",
+      "french_tie": "L'Oréal (Paris HQ), L'Oréal Luxe division; turns global brand guidelines into US plans.",
+      "travel": "Not mentioned in the posting",
+      "why": "Heavy on partnerships: campaigns, sponsorships, events and Kiehl's amenity programs with hotels and fitness clubs, coordinating partners and tracking results. Your partner management and event planning line up well.",
+      "stretch": true,
+      "stretch_note": "It asks for at least 5 years of marketing or brand management, and you'd manage a direct report.",
+      "url": "https://www.linkedin.com/jobs/view/manager-brand-marketing-kiehl-s-us-at-l-or%C3%A9al-4475965919",
+      "image": {
+        "src": "assets/img/loreal.jpg",
+        "kind": "photo",
+        "label": "L'ORÉAL",
+        "source": "https://www.loreal.com/en/ (og:image)"
+      },
+      "rank": 4,
+      "section": "new"
+    },
+    {
+      "number": 24,
+      "title": "Retail Partnership Regional Manager, Northeast",
+      "company": "Cartier",
+      "location": "New York (covers the Northeast)",
+      "salary": "$140k–$170k + bonus",
+      "posted": "2026-10-08",
+      "french_tie": "Cartier is a Paris maison founded in 1847, now part of the Swiss group Richemont.",
+      "travel": "Not mentioned (the role travels up to 80% around the region)",
+      "why": "This is the closest to what you do now: owning relationships with Cartier's retail partners, building action plans from their sales data, and planning CRM and events with them. It's on the commercial side rather than pure marketing, but it's a real partnerships role at a French luxury house.",
+      "stretch": true,
+      "stretch_note": "It wants 2-3 years of key account management in luxury watches, eyewear, fragrance, automotive or cosmetics (prefers a Master's), and up to 80% travel.",
+      "url": "https://www.linkedin.com/jobs/view/retail-partnership-regional-manager-northeast-at-cartier-4467122556",
+      "image": {
+        "kind": "monogram",
+        "text": "Cartier",
+        "bg": "#8c1c22",
+        "fg": "#f5f0e8"
+      },
+      "rank": 5,
+      "section": "new"
+    },
+    {
+      "number": 25,
+      "title": "Account-Based Marketing & Sales Activation Manager (B2B)",
+      "company": "Michelin North America",
+      "location": "Greenville, SC (relocation required)",
+      "work_arrangement": "Hybrid (some remote days)",
+      "posted": "2026-10-07",
+      "french_tie": "Michelin is headquartered in Clermont-Ferrand, France; this is its North American HQ.",
+      "travel": "Not mentioned in the posting",
+      "why": "A marketing role built for someone who knows sales: picking priority accounts, running campaign kickoffs with sales teams, training them on Salesforce and prospecting tools, and reporting on pipeline. Your AE background is exactly the point of view it needs.",
+      "stretch": true,
+      "stretch_note": "It asks for 3+ years in account-based marketing or sales enablement and in-depth experience with tools like 6sense or ZoomInfo, and it's outside LA.",
+      "url": "https://www.linkedin.com/jobs/view/account-based-marketing-sales-activation-manager-b2b-at-michelin-4475711013",
+      "image": {
+        "src": "assets/img/michelin.png",
+        "kind": "logo",
+        "bg": "#fce500",
+        "source": "https://www.michelinman.com/ (site icon)"
+      },
+      "rank": 6,
+      "section": "new"
+    },
+    {
+      "rank": 7,
       "number": 3,
       "title": "Assistant Manager, Global Marketing (Youth To The People)",
       "company": "L'Oréal USA",
@@ -29,10 +175,11 @@
         "kind": "photo",
         "label": "L'ORÉAL",
         "source": "https://www.loreal.com/en/ (og:image)"
-      }
+      },
+      "section": "earlier"
     },
     {
-      "rank": 2,
+      "rank": 8,
       "number": 1,
       "title": "Manager, Global Brand Marketing (NYX Professional Makeup)",
       "company": "L'Oréal USA",
@@ -51,10 +198,11 @@
         "kind": "photo",
         "label": "L'ORÉAL",
         "source": "https://www.loreal.com/en/ (og:image)"
-      }
+      },
+      "section": "earlier"
     },
     {
-      "rank": 3,
+      "rank": 9,
       "number": 15,
       "title": "Associate Brand Manager, Shaver US & Canada",
       "company": "BIC",
@@ -70,10 +218,12 @@
         "kind": "logo",
         "bg": "#f3ede3",
         "source": "https://eu.bic.com/"
-      }
+      },
+      "section": "earlier",
+      "from_earlier": true
     },
     {
-      "rank": 4,
+      "rank": 10,
       "number": 10,
       "title": "Trade Marketing Associate Manager, Erborian",
       "company": "Erborian (L'Occitane Group)",
@@ -93,10 +243,11 @@
         "kind": "logo",
         "bg": "#ffffff",
         "source": "https://www.erborian.com/ (og:image)"
-      }
+      },
+      "section": "earlier"
     },
     {
-      "rank": 5,
+      "rank": 11,
       "number": 11,
       "title": "Junior Global Trade Marketing Manager",
       "company": "Interparfums, Inc.",
@@ -115,10 +266,11 @@
         "kind": "logo",
         "bg": "#f3ede3",
         "source": "https://www.interparfumsinc.com/ (site icon)"
-      }
+      },
+      "section": "earlier"
     },
     {
-      "rank": 6,
+      "rank": 12,
       "number": 16,
       "title": "Assistant Manager, Social and Content (PPD DMI)",
       "company": "L'Oréal USA",
@@ -136,10 +288,12 @@
         "kind": "photo",
         "label": "L'ORÉAL",
         "source": "https://www.loreal.com/en/ (og:image)"
-      }
+      },
+      "section": "earlier",
+      "from_earlier": true
     },
     {
-      "rank": 7,
+      "rank": 13,
       "number": 14,
       "title": "Associate Brand Manager, Cointreau",
       "company": "Rémy Cointreau",
@@ -158,10 +312,11 @@
         "kind": "logo",
         "bg": "#f3ede3",
         "source": "https://www.cointreau.com/"
-      }
+      },
+      "section": "earlier"
     },
     {
-      "rank": 8,
+      "rank": 14,
       "number": 17,
       "title": "Associate Brand Manager, Moët & Chandon",
       "company": "Moët Hennessy USA (LVMH)",
@@ -181,10 +336,12 @@
         "kind": "logo",
         "bg": "#ffffff",
         "source": "https://www.moet.com/"
-      }
+      },
+      "section": "earlier",
+      "from_earlier": true
     },
     {
-      "rank": 9,
+      "rank": 15,
       "number": 18,
       "title": "Manager, Global Marketing, L'Oréal Paris DMI Cosmetics",
       "company": "L'Oréal USA",
@@ -203,10 +360,12 @@
         "kind": "photo",
         "label": "L'ORÉAL",
         "source": "https://www.loreal.com/en/ (og:image)"
-      }
+      },
+      "section": "earlier",
+      "from_earlier": true
     },
     {
-      "rank": 10,
+      "rank": 16,
       "number": 19,
       "title": "Press & Communications Manager",
       "company": "Christofle",
@@ -225,7 +384,9 @@
         "kind": "logo",
         "bg": "#ffffff",
         "source": "https://www.christofle.com/"
-      }
+      },
+      "section": "earlier",
+      "from_earlier": true
     }
   ]
 }

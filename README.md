@@ -42,6 +42,10 @@ Generated files are committed so GitHub Pages can serve them directly from `main
   "title": "Kristen's Top 10",        // optional heading
   "intro": "One short paragraph.",    // optional
   "notes": ["Extra line", "..."],     // optional "Also worth knowing" list
+  "sections": [                       // optional: group cards under headings, in this order
+    {"key": "new", "title": "New today", "intro": "..."},
+    {"key": "earlier", "title": "From earlier"}
+  ],
   "jobs": [
     {
       "number": 3,                    // required: the stable job number she replies with
@@ -59,6 +63,7 @@ Generated files are committed so GitHub Pages can serve them directly from `main
       "stretch": false,
       "stretch_note": "Why it's a stretch",
       "from_earlier": true,           // shows a "From earlier" badge
+      "section": "new",               // with "sections": which heading this card goes under
       "status": "You're applying: ...",  // optional highlighted line
       "image": {"src": "assets/img/x.png", "kind": "logo", "bg": "#ffffff", "source": "https://..."}
       // or {"kind": "photo", "src": "...", "label": "WORDMARK"}
