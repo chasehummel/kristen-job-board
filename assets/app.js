@@ -3,14 +3,15 @@
  * Each card has two separate actions, each sent on its own:
  *   "Share my thoughts"            -> type "thoughts"
  *   "Tailor my resume for this role" -> type "resume request"
- * Submissions go to ENDPOINT (FormSubmit.co's AJAX API), which emails them to the Kristen Bot
- * inbox and answers with JSON. A card only shows "Got it" after that JSON says success.
+ * Submissions go to ENDPOINT (FormSubmit.co's AJAX API), which emails them to Chase's Gmail
+ * (CC the Kristen Bot inbox) and answers with JSON. A card only shows "Got it" after that JSON says success.
  */
 (function () {
   "use strict";
 
   /* ---------- config: the one place to change the delivery service ---------- */
-  var ENDPOINT = "https://formsubmit.co/ajax/kristenbot@mail.grokbot.com";
+  var ENDPOINT = "https://formsubmit.co/ajax/chasehummel00@gmail.com";
+  var CC = "kristenbot@mail.grokbot.com";
   var TIMEOUT_MS = 20000;
 
   var INBOX = document.body.getAttribute("data-inbox") || "kristenbot@mail.grokbot.com";
@@ -76,6 +77,7 @@
     var p = {
       _subject: subjectFor(kind, j),
       _replyto: REPLY_TO,
+      _cc: CC,
       _template: "table",
       _captcha: "false",
       "Type": KINDS[kind].type,
