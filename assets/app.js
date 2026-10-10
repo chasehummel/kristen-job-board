@@ -10,7 +10,8 @@
   "use strict";
 
   /* ---------- config: the one place to change the delivery service ---------- */
-  var ENDPOINT = "https://formsubmit.co/ajax/chasehummel00@gmail.com";
+  // FormSubmit alias for Chase's Gmail (activated Oct 10, 2026); CC goes to the Kristen Bot inbox.
+  var ENDPOINT = "https://formsubmit.co/ajax/baa93db959ac1b1f527d19a51e504ec1";
   var CC = "kristenbot@mail.grokbot.com";
   var TIMEOUT_MS = 20000;
 
