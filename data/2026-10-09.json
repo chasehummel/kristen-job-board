@@ -1,0 +1,182 @@
+{
+  "date": "2026-10-09",
+  "checked": "2026-10-09",
+  "title": "Your first report",
+  "intro": "Your very first set of leads: marketing, brand and partnerships roles in the LA area at French or France-tied companies. Every posting was open when I checked it on Oct 9.",
+  "notes": [
+    "SMCP Group (Sandro, Maje, Claudie Pierlot, Fursac): nothing fits right now. Its LA openings are boutique retail roles and its corporate marketing jobs are in New York. It stays at the top of the daily watch list."
+  ],
+  "jobs": [
+    {
+      "number": 1,
+      "title": "Manager, Global Brand Marketing (NYX Professional Makeup)",
+      "company": "L'Oréal USA",
+      "location": "El Segundo, CA",
+      "work_arrangement": "Hybrid (per L'Oréal's careers site)",
+      "salary": "$90k–$128k base + bonus",
+      "posted": "2026-09-30",
+      "french_tie": "L'Oréal is headquartered in Paris.",
+      "why": "It's built around community strategy, partnerships, and activations (asks for 2-5 years), so your work building relationships and running events with Sensations lines up well with your marketing degree.",
+      "stretch": false,
+      "url": "https://careers.loreal.com/en/job/el-segundo/manager-global-brand-marketing-nyx/3456/44670713792",
+      "image": {
+        "src": "assets/img/loreal.jpg",
+        "kind": "photo",
+        "label": "L'ORÉAL",
+        "source": "https://www.loreal.com/en/ (og:image)"
+      }
+    },
+    {
+      "number": 2,
+      "title": "Manager, US Consumer Engagement (Youth To The People)",
+      "company": "L'Oréal USA",
+      "location": "El Segundo, CA",
+      "salary": "$93k–$128k + bonus",
+      "posted": "2026-08-10",
+      "french_tie": "L'Oréal (Paris HQ).",
+      "why": "The job is about building relationships with creators, press, and agency partners, and that's what you already do with executives at Gartner.",
+      "stretch": false,
+      "url": "https://careers.loreal.com/en/job/el-segundo/manager-us-consumer-engagement-yttp/3456/45204188480",
+      "image": {
+        "src": "assets/img/loreal.jpg",
+        "kind": "photo",
+        "label": "L'ORÉAL",
+        "source": "https://www.loreal.com/en/ (og:image)"
+      }
+    },
+    {
+      "number": 3,
+      "title": "Assistant Manager, Global Marketing (Youth To The People)",
+      "company": "L'Oréal USA",
+      "location": "El Segundo, CA",
+      "work_arrangement": "Hybrid (per L'Oréal's careers site)",
+      "salary": "$77k–$110k base + bonus",
+      "posted": "2026-10-07",
+      "french_tie": "L'Oréal (Paris HQ).",
+      "why": "It asks for only 2+ years of marketing experience, so it's a realistic first step into brand management, and you'd be coordinating across teams like you do now.",
+      "stretch": false,
+      "url": "https://careers.loreal.com/en/job/el-segundo/assistant-manager-global-marketing-youth-to-the-people/3456/44865009024",
+      "image": {
+        "src": "assets/img/loreal.jpg",
+        "kind": "photo",
+        "label": "L'ORÉAL",
+        "source": "https://www.loreal.com/en/ (og:image)"
+      }
+    },
+    {
+      "number": 4,
+      "title": "Senior Account Executive, Talent & Partnerships",
+      "company": "160over90 (Publicis Groupe)",
+      "location": "Beverly Hills, CA",
+      "work_arrangement": "In office 4 days a week",
+      "salary": "$60.8k–$93.6k",
+      "posted": "2026-09-29",
+      "french_tie": "Publicis Groupe is headquartered in Paris.",
+      "why": "It wants 3-5 years in account management or sponsorship, and it covers contracts, negotiations, and client presentations, which is your Gartner work applied to brand partnerships.",
+      "stretch": false,
+      "status": "Closed when I rechecked it later on Oct 9",
+      "url": "https://www.linkedin.com/jobs/view/senior-account-executive-talent-partnerships-at-publicis-media-4471966192",
+      "image": {
+        "src": "assets/img/160over90.svg",
+        "kind": "logo",
+        "bg": "#1c1c1c",
+        "source": "https://www.160over90.com/"
+      }
+    },
+    {
+      "number": 5,
+      "title": "Account Supervisor",
+      "company": "Saatchi & Saatchi Health (Publicis Groupe)",
+      "location": "Los Angeles, CA",
+      "salary": "$75k–$120k",
+      "posted": "2026-09-29",
+      "french_tie": "Publicis Groupe (Paris HQ).",
+      "why": "It asks for 4 years of client service and a \"relationship builder\" who drives clients' marketing goals, which matches your time owning Fortune 500 relationships.",
+      "stretch": false,
+      "url": "https://www.linkedin.com/jobs/view/account-supervisor-at-saatchi-saatchi-health-4471736048",
+      "image": {
+        "kind": "monogram",
+        "text": "Saatchi & Saatchi",
+        "sub": "Health",
+        "bg": "#1f1f1f",
+        "fg": "#f5f0e8"
+      }
+    },
+    {
+      "number": 6,
+      "title": "Fragrance & Beauty Account Executive, Los Angeles",
+      "company": "CHANEL",
+      "location": "Los Angeles",
+      "work_arrangement": "Home-office based, 25–30% travel",
+      "salary": "$92.4k–$125.7k base + variable pay",
+      "posted": "2026-09-30",
+      "french_tie": "CHANEL is a French maison.",
+      "why": "It's a bridge role that leans more toward sales, but it's on the brand side of a French luxury house, running promotional programs with retail partners where your AE skills carry straight over. It asks for 5+ years.",
+      "stretch": false,
+      "url": "https://www.linkedin.com/jobs/view/account-executive-los-angeles-at-chanel-4463552202",
+      "image": {
+        "kind": "monogram",
+        "text": "CHANEL",
+        "bg": "#0b0b0b",
+        "fg": "#ffffff",
+        "spaced": true
+      }
+    },
+    {
+      "number": 7,
+      "title": "Account Manager",
+      "company": "Fallon (Publicis Groupe)",
+      "location": "El Segundo, CA",
+      "salary": "$50k–$70.8k",
+      "posted": "2026-09-28",
+      "french_tie": "Publicis Groupe (Paris HQ).",
+      "why": "It's agency account management on creative brand work (1-3 years), an easy way in, though the pay is likely below what you make now.",
+      "stretch": false,
+      "url": "https://www.linkedin.com/jobs/view/account-manager-at-fallon-4471554264",
+      "image": {
+        "src": "assets/img/fallon.svg",
+        "kind": "logo",
+        "bg": "#f3ede3",
+        "source": "https://www.fallon.com/"
+      }
+    },
+    {
+      "number": 8,
+      "title": "Manager, TikTok Shop VIP Affiliate (Urban Decay)",
+      "company": "L'Oréal USA",
+      "location": "El Segundo, CA",
+      "work_arrangement": "Hybrid: 3 days in office, 2 from home",
+      "salary": "$90.2k–$128.5k",
+      "posted": "2026-10-08",
+      "french_tie": "L'Oréal (Paris HQ).",
+      "why": "It's a creator-partnerships job where recruiting and negotiating play to your strengths.",
+      "stretch": true,
+      "stretch_note": "Requires TikTok Shop experience.",
+      "url": "https://careers.loreal.com/en/job/el-segundo/manager-tik-tok-shop-vip-affiliate-urban-decay/3456/45684680576",
+      "image": {
+        "src": "assets/img/loreal.jpg",
+        "kind": "photo",
+        "label": "L'ORÉAL",
+        "source": "https://www.loreal.com/en/ (og:image)"
+      }
+    },
+    {
+      "number": 9,
+      "title": "Associate Director, Creator Management",
+      "company": "Influential (Publicis Groupe)",
+      "location": "Los Angeles, CA",
+      "salary": "$95k–$115k",
+      "posted": "2026-10-08",
+      "french_tie": "Influential is part of Publicis Groupe (Paris HQ).",
+      "why": "Casting, negotiating, and managing creator partnerships for Fortune 500 brands builds on your enterprise work.",
+      "stretch": true,
+      "stretch_note": "Asks for 5-7 years in digital or creator marketing.",
+      "url": "https://www.linkedin.com/jobs/view/associate-director-creator-management-at-publicis-media-4467117146",
+      "image": {
+        "src": "assets/img/influential.png",
+        "kind": "photo",
+        "source": "https://influential.co/ (og:image)"
+      }
+    }
+  ]
+}

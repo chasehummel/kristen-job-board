@@ -1,0 +1,231 @@
+{
+  "date": "2026-10-10",
+  "checked": "2026-10-09",
+  "title": "Kristen's Top 10",
+  "intro": "Your top 10: US-based roles at French or French-tied companies, with priority on global teams that work with Paris. Big companies are back in; slightly smaller ones break a tie. LA roles come first and anything outside LA is labeled. None of these postings mentions travel to Paris, so I haven't promised it on any of them.",
+  "notes": [
+    "#2 (Youth To The People consumer engagement, El Segundo) is still open if you want another LA option, but it's focused on the US market.",
+    "The 160over90 partnerships role (#4) has closed."
+  ],
+  "jobs": [
+    {
+      "rank": 1,
+      "number": 3,
+      "title": "Assistant Manager, Global Marketing (Youth To The People)",
+      "company": "L'Oréal USA",
+      "location": "El Segundo, CA",
+      "work_arrangement": "Hybrid (per L'Oréal's careers site)",
+      "salary": "$77k–$110k + bonus",
+      "posted": "2026-10-07",
+      "french_tie": "L'Oréal (Paris HQ); on the brand's global team.",
+      "travel": "Not mentioned in the posting",
+      "why": "You'd be on the brand's global team, sharing the global strategy with country teams and running launches and sampling. It asks for 2+ years, so it's the most realistic LA role.",
+      "stretch": false,
+      "from_earlier": true,
+      "status": "You're applying: tailored resume emailed Oct 10",
+      "url": "https://careers.loreal.com/en/job/el-segundo/assistant-manager-global-marketing-youth-to-the-people/3456/44865009024",
+      "image": {
+        "src": "assets/img/loreal.jpg",
+        "kind": "photo",
+        "label": "L'ORÉAL",
+        "source": "https://www.loreal.com/en/ (og:image)"
+      }
+    },
+    {
+      "rank": 2,
+      "number": 1,
+      "title": "Manager, Global Brand Marketing (NYX Professional Makeup)",
+      "company": "L'Oréal USA",
+      "location": "El Segundo, CA",
+      "work_arrangement": "Hybrid (per L'Oréal's careers site)",
+      "salary": "$90k–$128k + bonus",
+      "posted": "2026-09-30",
+      "french_tie": "L'Oréal (Paris HQ); global brand team.",
+      "travel": "Not mentioned in the posting",
+      "why": "A global brand team role built around community partnerships, campaigns and agency management. It asks for 2-5 years of brand marketing, so it's a bit of a reach, but your partnership work counts.",
+      "stretch": false,
+      "from_earlier": true,
+      "url": "https://careers.loreal.com/en/job/el-segundo/manager-global-brand-marketing-nyx/3456/44670713792",
+      "image": {
+        "src": "assets/img/loreal.jpg",
+        "kind": "photo",
+        "label": "L'ORÉAL",
+        "source": "https://www.loreal.com/en/ (og:image)"
+      }
+    },
+    {
+      "rank": 3,
+      "number": 15,
+      "title": "Associate Brand Manager, Shaver US & Canada",
+      "company": "BIC",
+      "location": "Norwalk, CT",
+      "posted": "2026-10-08",
+      "french_tie": "BIC is a French company based just outside Paris.",
+      "travel": "Not mentioned in the posting",
+      "why": "This entry-level brand role works with global teams and asks for 1-3 years in marketing, brand or commercial roles, so your AE experience counts directly.",
+      "stretch": false,
+      "url": "https://www.linkedin.com/jobs/view/associate-brand-manager-shaver-us-canada-at-bic-4476913635",
+      "image": {
+        "src": "assets/img/bic.svg",
+        "kind": "logo",
+        "bg": "#f3ede3",
+        "source": "https://eu.bic.com/"
+      }
+    },
+    {
+      "rank": 4,
+      "number": 10,
+      "title": "Trade Marketing Associate Manager, Erborian",
+      "company": "Erborian (L'Occitane Group)",
+      "location": "New York",
+      "work_arrangement": "About 2 days a week in the office",
+      "salary": "$70k–$75k + bonus",
+      "posted": "2026-09-01",
+      "posted_label": "Listed since",
+      "french_tie": "Part of L'Occitane Group, the Provence-born beauty group.",
+      "travel": "Not mentioned in the posting",
+      "why": "You'd be the day-to-day contact for Ulta and handle partnership opportunities. It asks for 2-3+ years with retail or strategic account partners, which is the closest match to what you do now.",
+      "stretch": false,
+      "from_earlier": true,
+      "url": "https://loccitaneenprovence.applytojob.com/apply/fhMa3yXIgi/Trade-Marketing-Associate-Manager-Erborian",
+      "image": {
+        "src": "assets/img/erborian.png",
+        "kind": "logo",
+        "bg": "#ffffff",
+        "source": "https://www.erborian.com/ (og:image)"
+      }
+    },
+    {
+      "rank": 5,
+      "number": 11,
+      "title": "Junior Global Trade Marketing Manager",
+      "company": "Interparfums, Inc.",
+      "location": "New York",
+      "work_arrangement": "In office Mon–Thu, remote Fri",
+      "salary": "$70k–$80k",
+      "posted": "2026-10-05",
+      "french_tie": "A smaller company that owns most of Interparfums SA in Paris.",
+      "travel": "Not mentioned in the posting",
+      "why": "You'd support global fragrance launches across international markets, and it asks for 2+ years of commercial marketing. The brands are mostly US-licensed (DKNY, Abercrombie), not French.",
+      "stretch": false,
+      "from_earlier": true,
+      "url": "https://www.linkedin.com/jobs/view/junior-global-trade-marketing-manager-at-interparfums-inc-4450357650",
+      "image": {
+        "src": "assets/img/interparfums.png",
+        "kind": "logo",
+        "bg": "#f3ede3",
+        "source": "https://www.interparfumsinc.com/ (site icon)"
+      }
+    },
+    {
+      "rank": 6,
+      "number": 16,
+      "title": "Assistant Manager, Social and Content (PPD DMI)",
+      "company": "L'Oréal USA",
+      "location": "New York",
+      "work_arrangement": "Hybrid (3 days in office)",
+      "salary": "$81.3k–$113.8k",
+      "posted": "2026-10-08",
+      "french_tie": "L'Oréal (Paris HQ); global (DMI) team for the Professional Products Division, working with country teams.",
+      "travel": "Not mentioned in the posting",
+      "why": "It asks for 1-3 years, but the work is mostly social media content, so it fits best if you'd enjoy that.",
+      "stretch": false,
+      "url": "https://careers.loreal.com/en/job/new-york/assistant-manager-social-and-content-ppd-dmi/3456/45367596352",
+      "image": {
+        "src": "assets/img/loreal.jpg",
+        "kind": "photo",
+        "label": "L'ORÉAL",
+        "source": "https://www.loreal.com/en/ (og:image)"
+      }
+    },
+    {
+      "rank": 7,
+      "number": 14,
+      "title": "Associate Brand Manager, Cointreau",
+      "company": "Rémy Cointreau",
+      "location": "New York",
+      "salary": "$95k–$115k",
+      "posted": "2026-09-30",
+      "french_tie": "A mid-size, family-controlled French spirits group; the posting names the Global Brand Team as one of the teams you'd work with.",
+      "travel": "Not mentioned in the posting",
+      "why": "A real brand management role covering social, influencer partnerships, budget and agencies.",
+      "stretch": true,
+      "stretch_note": "Asks for 2-4 years of brand marketing.",
+      "from_earlier": true,
+      "url": "https://www.linkedin.com/jobs/view/associate-brand-manager-at-r%C3%A9my-cointreau-4473781532",
+      "image": {
+        "src": "assets/img/cointreau.svg",
+        "kind": "logo",
+        "bg": "#f3ede3",
+        "source": "https://www.cointreau.com/"
+      }
+    },
+    {
+      "rank": 8,
+      "number": 17,
+      "title": "Associate Brand Manager, Moët & Chandon",
+      "company": "Moët Hennessy USA (LVMH)",
+      "location": "New York",
+      "work_arrangement": "Hybrid, 3 days a week",
+      "salary": "$92k–$115k + bonus",
+      "posted": "2026-07-22",
+      "posted_extra": "still open",
+      "french_tie": "LVMH; you'd manage relationships with the Moët & Chandon house.",
+      "travel": "Not mentioned in the posting",
+      "why": "You'd run US programs and manage relationships with the Moët & Chandon house, POS work and agencies.",
+      "stretch": true,
+      "stretch_note": "Asks for 3-5 years of brand marketing in CPG or luxury.",
+      "url": "https://www.lvmh.com/en/join-us/our-job-offers/MHUS01276",
+      "image": {
+        "src": "assets/img/moet-chandon.png",
+        "kind": "logo",
+        "bg": "#ffffff",
+        "source": "https://www.moet.com/"
+      }
+    },
+    {
+      "rank": 9,
+      "number": 18,
+      "title": "Manager, Global Marketing, L'Oréal Paris DMI Cosmetics",
+      "company": "L'Oréal USA",
+      "location": "New York",
+      "work_arrangement": "Up to 2 days a week from home",
+      "salary": "$98.4k–$140.2k",
+      "posted": "2026-10-09",
+      "french_tie": "L'Oréal (Paris HQ); the most global role on the list.",
+      "travel": "Not mentioned in the posting",
+      "why": "You'd shape L'Oréal Paris's global makeup plans for the US and handle key country relationships.",
+      "stretch": true,
+      "stretch_note": "Asks for 3+ years of CPG or beauty marketing and product launch experience, so it's a real reach.",
+      "url": "https://careers.loreal.com/en/job/new-york/manager-global-marketing-l-oreal-paris-dmi-cosmetics/3456/44852320128",
+      "image": {
+        "src": "assets/img/loreal.jpg",
+        "kind": "photo",
+        "label": "L'ORÉAL",
+        "source": "https://www.loreal.com/en/ (og:image)"
+      }
+    },
+    {
+      "rank": 10,
+      "number": 19,
+      "title": "Press & Communications Manager",
+      "company": "Christofle",
+      "location": "New York",
+      "work_arrangement": "Hybrid",
+      "salary": "$75k–$80k + 10% bonus",
+      "posted": "2026-09-14",
+      "french_tie": "A small Paris silver house founded in 1830, closer to the size you said you like.",
+      "travel": "Not mentioned in the posting",
+      "why": "The role covers press, events and partner messaging across North America.",
+      "stretch": true,
+      "stretch_note": "Asks for 3+ years of PR or communications experience.",
+      "url": "https://www.linkedin.com/jobs/view/press-communications-manager-at-christofle-4465218931",
+      "image": {
+        "src": "assets/img/christofle.png",
+        "kind": "logo",
+        "bg": "#ffffff",
+        "source": "https://www.christofle.com/"
+      }
+    }
+  ]
+}
