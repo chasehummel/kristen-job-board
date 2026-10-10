@@ -81,22 +81,40 @@ h1,h2,h3,h4{font-family:var(--serif);font-weight:500;margin:0}
 .btn-ghost:hover{background:#f5e9ea}
 .card .btn-primary{margin-top:auto;align-self:stretch}
 
-.fb{border-top:1px dashed var(--line);padding-top:10px}
-.fb summary{cursor:pointer;font-family:var(--serif);font-size:18px;color:var(--ink);list-style:none;display:flex;align-items:center;gap:8px}
+/* two separate actions per card */
+.fb{border:1px solid var(--line);border-radius:14px;padding:12px 14px;background:#fffefb}
+.fb + .fb{margin-top:-2px}
+.fb-resume{background:#fbf7f1}
+.fb summary{cursor:pointer;font-family:var(--serif);font-size:18px;color:var(--ink);list-style:none;display:flex;align-items:center;gap:8px;min-height:28px}
 .fb summary::-webkit-details-marker{display:none}
-.fb summary::before{content:"+";color:var(--bordeaux);font:400 20px var(--sans);width:18px}
+.fb summary::before{content:"+";color:var(--bordeaux);font:400 20px var(--sans);width:18px;flex:none}
 .fb[open] summary::before{content:"\2013"}
+.fb-name{flex:1}
+.fb-badge{flex:none;font:500 11.5px var(--sans);letter-spacing:.06em;color:#2f6b3a;background:#e4f1e2;border:1px solid #c5dfc1;border-radius:999px;padding:2px 9px}
+.fb-sub{margin:8px 0 0;font-size:13.5px;color:var(--muted)}
 .fb label{display:block;font-size:12.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-top:10px}
-.fb textarea{display:block;width:100%;margin-top:5px;font:15px/1.45 var(--sans);color:var(--ink);background:#fffefb;
+.fb .opt{text-transform:none;letter-spacing:0}
+.fb textarea{display:block;width:100%;margin-top:5px;font:15px/1.45 var(--sans);color:var(--ink);background:#fff;
   border:1px solid var(--line);border-radius:12px;padding:10px 12px;resize:vertical}
 .fb textarea:focus{outline:2px solid #e0c9a3;border-color:#cfb48a}
-.fb .check{display:flex;align-items:center;gap:10px;text-transform:none;letter-spacing:0;font-size:15px;color:var(--ink);margin-top:12px}
-.fb .check input{width:20px;height:20px;accent-color:var(--bordeaux)}
 .fb-actions{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-top:12px}
 .saved{font-size:12.5px;color:var(--sage)}
+.btn:disabled{opacity:.7;cursor:progress}
+.spin{display:none;width:16px;height:16px;border:2px solid currentColor;border-right-color:transparent;border-radius:50%;animation:kjbspin .8s linear infinite}
+.is-sending .spin{display:inline-block}
+@keyframes kjbspin{to{transform:rotate(360deg)}}
+.fb-status{margin-top:12px;border-radius:12px;padding:10px 12px;font-size:14px}
+.fb-status p{margin:0}
+.fb-status .fs-sub{margin-top:4px;font-size:13px}
+.fb-status.ok{background:#e9f4e6;border:1px solid #c5dfc1;color:#24502c}
+.fb-status.ok .fs-main{display:flex;gap:8px;align-items:flex-start;font-weight:500}
+.fs-check{flex:none;display:inline-flex;align-items:center;justify-content:center;width:20px;height:20px;border-radius:50%;background:#2f7a3d;color:#fff;font-size:12px;margin-top:1px}
+.fb-status.err{background:#f8e6e6;border:1px solid #e6c1c1;color:#7a1f24}
+.fb-status.warn{background:#f6eedd;border:1px solid #e6d5b0;color:#6b4d12}
+.fs-retry{font:500 13px var(--sans);color:#fff;background:var(--bordeaux);border:0;border-radius:999px;padding:6px 12px;cursor:pointer}
+.fb-status.err a{color:#7a1f24}
+@media (prefers-reduced-motion:reduce){.spin{animation-duration:2s}}
 
-.bundle{text-align:center;padding:26px 20px 6px}
-.bundle-hint{font-size:13px;color:var(--muted);margin:8px 0 0}
 .notes{max-width:760px;margin:22px auto 0;padding:0 22px}
 .notes h2{font-size:22px;font-style:italic;color:var(--bordeaux);text-align:center}
 .notes ul{padding-left:18px;color:#4a423a;font-size:14.5px}

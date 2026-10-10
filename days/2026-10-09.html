@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="../assets/fonts.css">
 <link rel="stylesheet" href="../assets/style.css">
 </head>
-<body data-date="2026-10-09" data-inbox="kristenbot@mail.grokbot.com">
+<body data-date="2026-10-09" data-inbox="kristenbot@mail.grokbot.com" data-replyto="Kweeder13@gmail.com">
 
 <button type="button" class="pd-tab" aria-controls="pastdays" aria-expanded="false">Past days</button>
 <aside id="pastdays" class="pd-drawer" aria-label="Past days" hidden>
@@ -24,7 +24,7 @@
   <h1>Bonjour, <em>Kristen</em></h1>
   <p class="sub">Your first report &middot; <strong>9</strong> picks for you</p>
   <p class="intro">Your very first set of leads: marketing, brand and partnerships roles in the LA area at French or France-tied companies. Every posting was open when I checked it on Oct 9.</p>
-  <p class="hint">Tap <em>Your thoughts on this one</em> on any card to tell me what you liked or didn&rsquo;t, or to ask for a tailored resume. The send button opens your email app with a message ready to go; just hit send. Your notes are saved on this device until then.</p>
+  <p class="hint">Every card has two buttons. <em>Share my thoughts</em> tells me what you liked or didn&rsquo;t, and <em>Tailor my resume for this role</em> asks me for a resume made for that posting. Both send right from this page. You&rsquo;ll see a green &ldquo;Got it &#10003;&rdquo; once I&rsquo;ve received it. Your notes are saved on this device as you type.</p>
 </header>
 <main class="cards">
 
@@ -40,15 +40,25 @@
     <div class="why"><h4>Why it fits you</h4><p>It&#x27;s built around community strategy, partnerships, and activations (asks for 2-5 years), so your work building relationships and running events with Sensations lines up well with your marketing degree.</p></div>
     
     <a class="btn btn-primary" href="https://careers.loreal.com/en/job/el-segundo/manager-global-brand-marketing-nyx/3456/44670713792" target="_blank" rel="noopener">View posting <span aria-hidden="true">&rarr;</span></a>
-    <details class="fb">
-      <summary>Your thoughts on this one</summary>
+    <details class="fb fb-thoughts" data-kind="thoughts">
+      <summary><span class="fb-name">Share my thoughts</span><span class="fb-badge" hidden></span></summary>
       <label>What I liked<textarea data-field="liked" rows="3" placeholder="The global team, the brand, the pay&hellip;"></textarea></label>
       <label>What I didn&rsquo;t like<textarea data-field="disliked" rows="3" placeholder="Too much social, too far from LA&hellip;"></textarea></label>
-      <label class="check"><input type="checkbox" data-field="resume"> Tailor my resume for this</label>
       <div class="fb-actions">
-        <button type="button" class="btn btn-ghost js-send-one">Send feedback</button>
+        <button type="button" class="btn btn-ghost js-send" data-kind="thoughts"><span class="spin" aria-hidden="true"></span><span class="lbl">Send my thoughts</span></button>
         <span class="saved" aria-live="polite"></span>
       </div>
+      <div class="fb-status" role="status" aria-live="polite" hidden></div>
+    </details>
+    <details class="fb fb-resume" data-kind="resume">
+      <summary><span class="fb-name">Tailor my resume for this role</span><span class="fb-badge" hidden></span></summary>
+      <p class="fb-sub">I&rsquo;ll tailor your resume to this posting, using only your real experience, and email it to you.</p>
+      <label>Anything to emphasize? <span class="opt">(optional)</span><textarea data-field="note" rows="2" placeholder="Lead with partnerships, mention my French&hellip;"></textarea></label>
+      <div class="fb-actions">
+        <button type="button" class="btn btn-ghost js-send" data-kind="resume"><span class="spin" aria-hidden="true"></span><span class="lbl">Tailor my resume</span></button>
+        <span class="saved" aria-live="polite"></span>
+      </div>
+      <div class="fb-status" role="status" aria-live="polite" hidden></div>
     </details>
   </div>
 </article>
@@ -64,15 +74,25 @@
     <div class="why"><h4>Why it fits you</h4><p>The job is about building relationships with creators, press, and agency partners, and that&#x27;s what you already do with executives at Gartner.</p></div>
     
     <a class="btn btn-primary" href="https://careers.loreal.com/en/job/el-segundo/manager-us-consumer-engagement-yttp/3456/45204188480" target="_blank" rel="noopener">View posting <span aria-hidden="true">&rarr;</span></a>
-    <details class="fb">
-      <summary>Your thoughts on this one</summary>
+    <details class="fb fb-thoughts" data-kind="thoughts">
+      <summary><span class="fb-name">Share my thoughts</span><span class="fb-badge" hidden></span></summary>
       <label>What I liked<textarea data-field="liked" rows="3" placeholder="The global team, the brand, the pay&hellip;"></textarea></label>
       <label>What I didn&rsquo;t like<textarea data-field="disliked" rows="3" placeholder="Too much social, too far from LA&hellip;"></textarea></label>
-      <label class="check"><input type="checkbox" data-field="resume"> Tailor my resume for this</label>
       <div class="fb-actions">
-        <button type="button" class="btn btn-ghost js-send-one">Send feedback</button>
+        <button type="button" class="btn btn-ghost js-send" data-kind="thoughts"><span class="spin" aria-hidden="true"></span><span class="lbl">Send my thoughts</span></button>
         <span class="saved" aria-live="polite"></span>
       </div>
+      <div class="fb-status" role="status" aria-live="polite" hidden></div>
+    </details>
+    <details class="fb fb-resume" data-kind="resume">
+      <summary><span class="fb-name">Tailor my resume for this role</span><span class="fb-badge" hidden></span></summary>
+      <p class="fb-sub">I&rsquo;ll tailor your resume to this posting, using only your real experience, and email it to you.</p>
+      <label>Anything to emphasize? <span class="opt">(optional)</span><textarea data-field="note" rows="2" placeholder="Lead with partnerships, mention my French&hellip;"></textarea></label>
+      <div class="fb-actions">
+        <button type="button" class="btn btn-ghost js-send" data-kind="resume"><span class="spin" aria-hidden="true"></span><span class="lbl">Tailor my resume</span></button>
+        <span class="saved" aria-live="polite"></span>
+      </div>
+      <div class="fb-status" role="status" aria-live="polite" hidden></div>
     </details>
   </div>
 </article>
@@ -88,15 +108,25 @@
     <div class="why"><h4>Why it fits you</h4><p>It asks for only 2+ years of marketing experience, so it&#x27;s a realistic first step into brand management, and you&#x27;d be coordinating across teams like you do now.</p></div>
     
     <a class="btn btn-primary" href="https://careers.loreal.com/en/job/el-segundo/assistant-manager-global-marketing-youth-to-the-people/3456/44865009024" target="_blank" rel="noopener">View posting <span aria-hidden="true">&rarr;</span></a>
-    <details class="fb">
-      <summary>Your thoughts on this one</summary>
+    <details class="fb fb-thoughts" data-kind="thoughts">
+      <summary><span class="fb-name">Share my thoughts</span><span class="fb-badge" hidden></span></summary>
       <label>What I liked<textarea data-field="liked" rows="3" placeholder="The global team, the brand, the pay&hellip;"></textarea></label>
       <label>What I didn&rsquo;t like<textarea data-field="disliked" rows="3" placeholder="Too much social, too far from LA&hellip;"></textarea></label>
-      <label class="check"><input type="checkbox" data-field="resume"> Tailor my resume for this</label>
       <div class="fb-actions">
-        <button type="button" class="btn btn-ghost js-send-one">Send feedback</button>
+        <button type="button" class="btn btn-ghost js-send" data-kind="thoughts"><span class="spin" aria-hidden="true"></span><span class="lbl">Send my thoughts</span></button>
         <span class="saved" aria-live="polite"></span>
       </div>
+      <div class="fb-status" role="status" aria-live="polite" hidden></div>
+    </details>
+    <details class="fb fb-resume" data-kind="resume">
+      <summary><span class="fb-name">Tailor my resume for this role</span><span class="fb-badge" hidden></span></summary>
+      <p class="fb-sub">I&rsquo;ll tailor your resume to this posting, using only your real experience, and email it to you.</p>
+      <label>Anything to emphasize? <span class="opt">(optional)</span><textarea data-field="note" rows="2" placeholder="Lead with partnerships, mention my French&hellip;"></textarea></label>
+      <div class="fb-actions">
+        <button type="button" class="btn btn-ghost js-send" data-kind="resume"><span class="spin" aria-hidden="true"></span><span class="lbl">Tailor my resume</span></button>
+        <span class="saved" aria-live="polite"></span>
+      </div>
+      <div class="fb-status" role="status" aria-live="polite" hidden></div>
     </details>
   </div>
 </article>
@@ -112,15 +142,25 @@
     <div class="why"><h4>Why it fits you</h4><p>It wants 3-5 years in account management or sponsorship, and it covers contracts, negotiations, and client presentations, which is your Gartner work applied to brand partnerships.</p></div>
     
     <a class="btn btn-primary" href="https://www.linkedin.com/jobs/view/senior-account-executive-talent-partnerships-at-publicis-media-4471966192" target="_blank" rel="noopener">View posting <span aria-hidden="true">&rarr;</span></a>
-    <details class="fb">
-      <summary>Your thoughts on this one</summary>
+    <details class="fb fb-thoughts" data-kind="thoughts">
+      <summary><span class="fb-name">Share my thoughts</span><span class="fb-badge" hidden></span></summary>
       <label>What I liked<textarea data-field="liked" rows="3" placeholder="The global team, the brand, the pay&hellip;"></textarea></label>
       <label>What I didn&rsquo;t like<textarea data-field="disliked" rows="3" placeholder="Too much social, too far from LA&hellip;"></textarea></label>
-      <label class="check"><input type="checkbox" data-field="resume"> Tailor my resume for this</label>
       <div class="fb-actions">
-        <button type="button" class="btn btn-ghost js-send-one">Send feedback</button>
+        <button type="button" class="btn btn-ghost js-send" data-kind="thoughts"><span class="spin" aria-hidden="true"></span><span class="lbl">Send my thoughts</span></button>
         <span class="saved" aria-live="polite"></span>
       </div>
+      <div class="fb-status" role="status" aria-live="polite" hidden></div>
+    </details>
+    <details class="fb fb-resume" data-kind="resume">
+      <summary><span class="fb-name">Tailor my resume for this role</span><span class="fb-badge" hidden></span></summary>
+      <p class="fb-sub">I&rsquo;ll tailor your resume to this posting, using only your real experience, and email it to you.</p>
+      <label>Anything to emphasize? <span class="opt">(optional)</span><textarea data-field="note" rows="2" placeholder="Lead with partnerships, mention my French&hellip;"></textarea></label>
+      <div class="fb-actions">
+        <button type="button" class="btn btn-ghost js-send" data-kind="resume"><span class="spin" aria-hidden="true"></span><span class="lbl">Tailor my resume</span></button>
+        <span class="saved" aria-live="polite"></span>
+      </div>
+      <div class="fb-status" role="status" aria-live="polite" hidden></div>
     </details>
   </div>
 </article>
@@ -136,15 +176,25 @@
     <div class="why"><h4>Why it fits you</h4><p>It asks for 4 years of client service and a &quot;relationship builder&quot; who drives clients&#x27; marketing goals, which matches your time owning Fortune 500 relationships.</p></div>
     
     <a class="btn btn-primary" href="https://www.linkedin.com/jobs/view/account-supervisor-at-saatchi-saatchi-health-4471736048" target="_blank" rel="noopener">View posting <span aria-hidden="true">&rarr;</span></a>
-    <details class="fb">
-      <summary>Your thoughts on this one</summary>
+    <details class="fb fb-thoughts" data-kind="thoughts">
+      <summary><span class="fb-name">Share my thoughts</span><span class="fb-badge" hidden></span></summary>
       <label>What I liked<textarea data-field="liked" rows="3" placeholder="The global team, the brand, the pay&hellip;"></textarea></label>
       <label>What I didn&rsquo;t like<textarea data-field="disliked" rows="3" placeholder="Too much social, too far from LA&hellip;"></textarea></label>
-      <label class="check"><input type="checkbox" data-field="resume"> Tailor my resume for this</label>
       <div class="fb-actions">
-        <button type="button" class="btn btn-ghost js-send-one">Send feedback</button>
+        <button type="button" class="btn btn-ghost js-send" data-kind="thoughts"><span class="spin" aria-hidden="true"></span><span class="lbl">Send my thoughts</span></button>
         <span class="saved" aria-live="polite"></span>
       </div>
+      <div class="fb-status" role="status" aria-live="polite" hidden></div>
+    </details>
+    <details class="fb fb-resume" data-kind="resume">
+      <summary><span class="fb-name">Tailor my resume for this role</span><span class="fb-badge" hidden></span></summary>
+      <p class="fb-sub">I&rsquo;ll tailor your resume to this posting, using only your real experience, and email it to you.</p>
+      <label>Anything to emphasize? <span class="opt">(optional)</span><textarea data-field="note" rows="2" placeholder="Lead with partnerships, mention my French&hellip;"></textarea></label>
+      <div class="fb-actions">
+        <button type="button" class="btn btn-ghost js-send" data-kind="resume"><span class="spin" aria-hidden="true"></span><span class="lbl">Tailor my resume</span></button>
+        <span class="saved" aria-live="polite"></span>
+      </div>
+      <div class="fb-status" role="status" aria-live="polite" hidden></div>
     </details>
   </div>
 </article>
@@ -160,15 +210,25 @@
     <div class="why"><h4>Why it fits you</h4><p>It&#x27;s a bridge role that leans more toward sales, but it&#x27;s on the brand side of a French luxury house, running promotional programs with retail partners where your AE skills carry straight over. It asks for 5+ years.</p></div>
     
     <a class="btn btn-primary" href="https://www.linkedin.com/jobs/view/account-executive-los-angeles-at-chanel-4463552202" target="_blank" rel="noopener">View posting <span aria-hidden="true">&rarr;</span></a>
-    <details class="fb">
-      <summary>Your thoughts on this one</summary>
+    <details class="fb fb-thoughts" data-kind="thoughts">
+      <summary><span class="fb-name">Share my thoughts</span><span class="fb-badge" hidden></span></summary>
       <label>What I liked<textarea data-field="liked" rows="3" placeholder="The global team, the brand, the pay&hellip;"></textarea></label>
       <label>What I didn&rsquo;t like<textarea data-field="disliked" rows="3" placeholder="Too much social, too far from LA&hellip;"></textarea></label>
-      <label class="check"><input type="checkbox" data-field="resume"> Tailor my resume for this</label>
       <div class="fb-actions">
-        <button type="button" class="btn btn-ghost js-send-one">Send feedback</button>
+        <button type="button" class="btn btn-ghost js-send" data-kind="thoughts"><span class="spin" aria-hidden="true"></span><span class="lbl">Send my thoughts</span></button>
         <span class="saved" aria-live="polite"></span>
       </div>
+      <div class="fb-status" role="status" aria-live="polite" hidden></div>
+    </details>
+    <details class="fb fb-resume" data-kind="resume">
+      <summary><span class="fb-name">Tailor my resume for this role</span><span class="fb-badge" hidden></span></summary>
+      <p class="fb-sub">I&rsquo;ll tailor your resume to this posting, using only your real experience, and email it to you.</p>
+      <label>Anything to emphasize? <span class="opt">(optional)</span><textarea data-field="note" rows="2" placeholder="Lead with partnerships, mention my French&hellip;"></textarea></label>
+      <div class="fb-actions">
+        <button type="button" class="btn btn-ghost js-send" data-kind="resume"><span class="spin" aria-hidden="true"></span><span class="lbl">Tailor my resume</span></button>
+        <span class="saved" aria-live="polite"></span>
+      </div>
+      <div class="fb-status" role="status" aria-live="polite" hidden></div>
     </details>
   </div>
 </article>
@@ -184,15 +244,25 @@
     <div class="why"><h4>Why it fits you</h4><p>It&#x27;s agency account management on creative brand work (1-3 years), an easy way in, though the pay is likely below what you make now.</p></div>
     
     <a class="btn btn-primary" href="https://www.linkedin.com/jobs/view/account-manager-at-fallon-4471554264" target="_blank" rel="noopener">View posting <span aria-hidden="true">&rarr;</span></a>
-    <details class="fb">
-      <summary>Your thoughts on this one</summary>
+    <details class="fb fb-thoughts" data-kind="thoughts">
+      <summary><span class="fb-name">Share my thoughts</span><span class="fb-badge" hidden></span></summary>
       <label>What I liked<textarea data-field="liked" rows="3" placeholder="The global team, the brand, the pay&hellip;"></textarea></label>
       <label>What I didn&rsquo;t like<textarea data-field="disliked" rows="3" placeholder="Too much social, too far from LA&hellip;"></textarea></label>
-      <label class="check"><input type="checkbox" data-field="resume"> Tailor my resume for this</label>
       <div class="fb-actions">
-        <button type="button" class="btn btn-ghost js-send-one">Send feedback</button>
+        <button type="button" class="btn btn-ghost js-send" data-kind="thoughts"><span class="spin" aria-hidden="true"></span><span class="lbl">Send my thoughts</span></button>
         <span class="saved" aria-live="polite"></span>
       </div>
+      <div class="fb-status" role="status" aria-live="polite" hidden></div>
+    </details>
+    <details class="fb fb-resume" data-kind="resume">
+      <summary><span class="fb-name">Tailor my resume for this role</span><span class="fb-badge" hidden></span></summary>
+      <p class="fb-sub">I&rsquo;ll tailor your resume to this posting, using only your real experience, and email it to you.</p>
+      <label>Anything to emphasize? <span class="opt">(optional)</span><textarea data-field="note" rows="2" placeholder="Lead with partnerships, mention my French&hellip;"></textarea></label>
+      <div class="fb-actions">
+        <button type="button" class="btn btn-ghost js-send" data-kind="resume"><span class="spin" aria-hidden="true"></span><span class="lbl">Tailor my resume</span></button>
+        <span class="saved" aria-live="polite"></span>
+      </div>
+      <div class="fb-status" role="status" aria-live="polite" hidden></div>
     </details>
   </div>
 </article>
@@ -208,15 +278,25 @@
     <div class="why"><h4>Why it fits you</h4><p>It&#x27;s a creator-partnerships job where recruiting and negotiating play to your strengths.</p></div>
     <p class="stretch-note"><strong>Why it&rsquo;s a stretch:</strong> Requires TikTok Shop experience.</p>
     <a class="btn btn-primary" href="https://careers.loreal.com/en/job/el-segundo/manager-tik-tok-shop-vip-affiliate-urban-decay/3456/45684680576" target="_blank" rel="noopener">View posting <span aria-hidden="true">&rarr;</span></a>
-    <details class="fb">
-      <summary>Your thoughts on this one</summary>
+    <details class="fb fb-thoughts" data-kind="thoughts">
+      <summary><span class="fb-name">Share my thoughts</span><span class="fb-badge" hidden></span></summary>
       <label>What I liked<textarea data-field="liked" rows="3" placeholder="The global team, the brand, the pay&hellip;"></textarea></label>
       <label>What I didn&rsquo;t like<textarea data-field="disliked" rows="3" placeholder="Too much social, too far from LA&hellip;"></textarea></label>
-      <label class="check"><input type="checkbox" data-field="resume"> Tailor my resume for this</label>
       <div class="fb-actions">
-        <button type="button" class="btn btn-ghost js-send-one">Send feedback</button>
+        <button type="button" class="btn btn-ghost js-send" data-kind="thoughts"><span class="spin" aria-hidden="true"></span><span class="lbl">Send my thoughts</span></button>
         <span class="saved" aria-live="polite"></span>
       </div>
+      <div class="fb-status" role="status" aria-live="polite" hidden></div>
+    </details>
+    <details class="fb fb-resume" data-kind="resume">
+      <summary><span class="fb-name">Tailor my resume for this role</span><span class="fb-badge" hidden></span></summary>
+      <p class="fb-sub">I&rsquo;ll tailor your resume to this posting, using only your real experience, and email it to you.</p>
+      <label>Anything to emphasize? <span class="opt">(optional)</span><textarea data-field="note" rows="2" placeholder="Lead with partnerships, mention my French&hellip;"></textarea></label>
+      <div class="fb-actions">
+        <button type="button" class="btn btn-ghost js-send" data-kind="resume"><span class="spin" aria-hidden="true"></span><span class="lbl">Tailor my resume</span></button>
+        <span class="saved" aria-live="polite"></span>
+      </div>
+      <div class="fb-status" role="status" aria-live="polite" hidden></div>
     </details>
   </div>
 </article>
@@ -232,23 +312,29 @@
     <div class="why"><h4>Why it fits you</h4><p>Casting, negotiating, and managing creator partnerships for Fortune 500 brands builds on your enterprise work.</p></div>
     <p class="stretch-note"><strong>Why it&rsquo;s a stretch:</strong> Asks for 5-7 years in digital or creator marketing.</p>
     <a class="btn btn-primary" href="https://www.linkedin.com/jobs/view/associate-director-creator-management-at-publicis-media-4467117146" target="_blank" rel="noopener">View posting <span aria-hidden="true">&rarr;</span></a>
-    <details class="fb">
-      <summary>Your thoughts on this one</summary>
+    <details class="fb fb-thoughts" data-kind="thoughts">
+      <summary><span class="fb-name">Share my thoughts</span><span class="fb-badge" hidden></span></summary>
       <label>What I liked<textarea data-field="liked" rows="3" placeholder="The global team, the brand, the pay&hellip;"></textarea></label>
       <label>What I didn&rsquo;t like<textarea data-field="disliked" rows="3" placeholder="Too much social, too far from LA&hellip;"></textarea></label>
-      <label class="check"><input type="checkbox" data-field="resume"> Tailor my resume for this</label>
       <div class="fb-actions">
-        <button type="button" class="btn btn-ghost js-send-one">Send feedback</button>
+        <button type="button" class="btn btn-ghost js-send" data-kind="thoughts"><span class="spin" aria-hidden="true"></span><span class="lbl">Send my thoughts</span></button>
         <span class="saved" aria-live="polite"></span>
       </div>
+      <div class="fb-status" role="status" aria-live="polite" hidden></div>
+    </details>
+    <details class="fb fb-resume" data-kind="resume">
+      <summary><span class="fb-name">Tailor my resume for this role</span><span class="fb-badge" hidden></span></summary>
+      <p class="fb-sub">I&rsquo;ll tailor your resume to this posting, using only your real experience, and email it to you.</p>
+      <label>Anything to emphasize? <span class="opt">(optional)</span><textarea data-field="note" rows="2" placeholder="Lead with partnerships, mention my French&hellip;"></textarea></label>
+      <div class="fb-actions">
+        <button type="button" class="btn btn-ghost js-send" data-kind="resume"><span class="spin" aria-hidden="true"></span><span class="lbl">Tailor my resume</span></button>
+        <span class="saved" aria-live="polite"></span>
+      </div>
+      <div class="fb-status" role="status" aria-live="polite" hidden></div>
     </details>
   </div>
 </article>
 </main>
-<section class="bundle">
-  <button type="button" class="btn btn-primary js-send-all">Send all my feedback</button>
-  <p class="bundle-hint">Bundles every card you&rsquo;ve written on into one email.</p>
-</section>
 <aside class="notes"><h2>Also worth knowing</h2><ul><li>SMCP Group (Sandro, Maje, Claudie Pierlot, Fursac): nothing fits right now. Its LA openings are boutique retail roles and its corporate marketing jobs are in New York. It stays at the top of the daily watch list.</li></ul></aside>
 
 <footer class="foot">

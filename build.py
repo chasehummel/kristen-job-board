@@ -18,6 +18,7 @@ ROOT = Path(__file__).resolve().parent
 DATA = ROOT / "data"
 DAYS = ROOT / "days"
 INBOX = "kristenbot@mail.grokbot.com"
+REPLY_TO = "Kweeder13@gmail.com"
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
 
@@ -128,15 +129,25 @@ def card_html(job, root):
     {why}
     {stretch_note}
     <a class="btn btn-primary" href="{esc(job["url"])}" target="_blank" rel="noopener">View posting <span aria-hidden="true">&rarr;</span></a>
-    <details class="fb">
-      <summary>Your thoughts on this one</summary>
+    <details class="fb fb-thoughts" data-kind="thoughts">
+      <summary><span class="fb-name">Share my thoughts</span><span class="fb-badge" hidden></span></summary>
       <label>What I liked<textarea data-field="liked" rows="3" placeholder="The global team, the brand, the pay&hellip;"></textarea></label>
       <label>What I didn&rsquo;t like<textarea data-field="disliked" rows="3" placeholder="Too much social, too far from LA&hellip;"></textarea></label>
-      <label class="check"><input type="checkbox" data-field="resume"> Tailor my resume for this</label>
       <div class="fb-actions">
-        <button type="button" class="btn btn-ghost js-send-one">Send feedback</button>
+        <button type="button" class="btn btn-ghost js-send" data-kind="thoughts"><span class="spin" aria-hidden="true"></span><span class="lbl">Send my thoughts</span></button>
         <span class="saved" aria-live="polite"></span>
       </div>
+      <div class="fb-status" role="status" aria-live="polite" hidden></div>
+    </details>
+    <details class="fb fb-resume" data-kind="resume">
+      <summary><span class="fb-name">Tailor my resume for this role</span><span class="fb-badge" hidden></span></summary>
+      <p class="fb-sub">I&rsquo;ll tailor your resume to this posting, using only your real experience, and email it to you.</p>
+      <label>Anything to emphasize? <span class="opt">(optional)</span><textarea data-field="note" rows="2" placeholder="Lead with partnerships, mention my French&hellip;"></textarea></label>
+      <div class="fb-actions">
+        <button type="button" class="btn btn-ghost js-send" data-kind="resume"><span class="spin" aria-hidden="true"></span><span class="lbl">Tailor my resume</span></button>
+        <span class="saved" aria-live="polite"></span>
+      </div>
+      <div class="fb-status" role="status" aria-live="polite" hidden></div>
     </details>
   </div>
 </article>'''
@@ -203,7 +214,7 @@ def day_page(day, days, root):
                  + "".join(f"<li>{esc(x)}</li>" for x in day["notes"]) + "</ul></aside>")
     cards = "".join(card_html(j, root) for j in jobs)
     return f'''{head(f"{title} · {long_date(day['date'])}", root)}
-<body data-date="{esc(day['date'])}" data-inbox="{INBOX}">
+<body data-date="{esc(day['date'])}" data-inbox="{INBOX}" data-replyto="{REPLY_TO}">
 {past_days_html(days, day["date"], root)}
 <header class="hero">
   <div class="tricolore" aria-hidden="true"><span></span><span></span><span></span></div>
@@ -211,15 +222,11 @@ def day_page(day, days, root):
   <h1>Bonjour, <em>Kristen</em></h1>
   <p class="sub">{esc(title)} &middot; <strong>{n}</strong> pick{"s" if n != 1 else ""} for you</p>
   {intro}
-  <p class="hint">Tap <em>Your thoughts on this one</em> on any card to tell me what you liked or didn&rsquo;t, or to ask for a tailored resume. The send button opens your email app with a message ready to go; just hit send. Your notes are saved on this device until then.</p>
+  <p class="hint">Every card has two buttons. <em>Share my thoughts</em> tells me what you liked or didn&rsquo;t, and <em>Tailor my resume for this role</em> asks me for a resume made for that posting. Both send right from this page. You&rsquo;ll see a green &ldquo;Got it &#10003;&rdquo; once I&rsquo;ve received it. Your notes are saved on this device as you type.</p>
 </header>
 <main class="cards">
 {cards}
 </main>
-<section class="bundle">
-  <button type="button" class="btn btn-primary js-send-all">Send all my feedback</button>
-  <p class="bundle-hint">Bundles every card you&rsquo;ve written on into one email.</p>
-</section>
 {notes}
 {footer(day)}
 <script src="{root}assets/app.js" defer></script>

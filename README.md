@@ -13,7 +13,7 @@ index.html             latest day (generated)
 days/YYYY-MM-DD.html   one page per day (generated)
 archive.html           every day, newest first (generated)
 assets/style.css       design (Parisian, mobile first)
-assets/app.js          feedback-by-email + "Past days" drawer
+assets/app.js          on-page sending (thoughts / resume requests) + "Past days" drawer
 assets/fonts.css       self-hosted Cormorant Garamond + Jost (SIL OFL, from Google Fonts)
 assets/img/            company logos / og:images downloaded from each company's own site
 assets/img/SOURCES.md  where each image came from
@@ -71,16 +71,33 @@ Generated files are committed so GitHub Pages can serve them directly from `main
 
 ## How feedback works
 
-The site is static, so feedback travels by email. Each card has "What I liked", "What I didn't
-like", a "Tailor my resume for this" checkbox and a **Send feedback** button. The button opens
-Kristen's email app (a `mailto:` link built in `assets/app.js`) addressed to
-**kristenbot@mail.grokbot.com** with the subject
-`Job board feedback: #<n> <title> at <company>` and a body containing the job number, title,
-company, URL, her liked/disliked text and `Resume requested: yes/no`. She just hits send.
-**Send all my feedback** at the bottom bundles every filled-in card on the page into one email.
+Each card has two separate panels, each with its own button and its own confirmation:
 
-In-progress text is saved in the browser's `localStorage` (keyed by job number, so notes follow a
-job across days) and never leaves her phone until she sends the email.
+- **Share my thoughts**: "What I liked" + "What I didn't like" and a **Send my thoughts** button.
+- **Tailor my resume for this role**: an optional "Anything to emphasize?" note and a
+  **Tailor my resume** button.
 
-The reply arrives in the Kristen Bot inbox, where the routine logs it to
-`PREFERENCES.md`, makes a tailored resume if requested, and continues the conversation by email.
+Sending happens right on the page: `assets/app.js` POSTs JSON with `fetch` to
+**FormSubmit.co's AJAX endpoint** (`ENDPOINT` at the top of `assets/app.js`, the only place to
+change the service). FormSubmit emails the submission to **kristenbot@mail.grokbot.com** and answers
+with JSON. The card shows a green "Got it ✓ — Kristen Bot received this at <time>" only when that
+JSON says `success: "true"`; otherwise it shows the error, a **Try again** button and a
+"send it by email instead" `mailto:` fallback.
+
+Each email has:
+
+- Subject `Job board: THOUGHTS #<n> <title> at <company>` or
+  `Job board: RESUME REQUEST #<n> <title> at <company>`
+- Reply-To `Kweeder13@gmail.com` (set in `build.py` as `REPLY_TO`)
+- Fields: Type, Job number, Title, Company, Posting, Page date, her text, Sent from (page URL)
+
+Drafts and the time of each confirmed send are kept in the browser's `localStorage` (keyed by job
+number, so they follow a job across days). On a later visit the panel shows "✓ Sent Oct 10" and
+the button becomes **Send an update** / **Send another request**.
+
+The email arrives in the Kristen Bot inbox, where the routine logs thoughts to `PREFERENCES.md`,
+makes a tailored resume when one is requested, and continues the conversation by email with
+Kristen.
+
+FormSubmit needs a one-time activation: the first submission sends an "Activate Form" email to
+kristenbot@mail.grokbot.com, and nothing is delivered until its link is clicked.
