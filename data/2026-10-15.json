@@ -1,0 +1,164 @@
+{
+  "date": "2026-10-15",
+  "checked": "2026-10-15",
+  "title": "New Redken Assistant Marketing Manager + two Moët Hennessy ABMs",
+  "intro": "One strong new L'Oréal find posted yesterday: Assistant Marketing Manager for Redken Hair Color in New York (1–3 years — a realistic level for you). Also newly numbered two Moët Hennessy Associate Brand Manager roles (Dom Pérignon and Krug & Ruinart) that were live on LVMH's board but not on your list yet — both stretches. Your LA favorites #20 and #3 are still open, and Erborian #10 is still on L'Occitane's board.",
+  "sections": [
+    {
+      "key": "new",
+      "title": "New today",
+      "intro": "Verified live Oct 15. Redken is the clearest fit; the two champagne ABMs are luxury brand seats with Maison ties to France."
+    },
+    {
+      "key": "earlier",
+      "title": "Still open (favorites)",
+      "intro": "Spot-checked live this morning on careers.loreal.com and L'Occitane's applytojob board."
+    }
+  ],
+  "notes": [
+    "SMCP Group: Greenhouse still NY corporate (AR, Allocation Planner Maje, EA) + retail only — no US marketing/brand/partnerships.",
+    "L'Oréal Assistant Manager, Social and Content (PPD DMI) #16 is live again on careers.loreal.com (was 404 on Oct 12).",
+    "Pernod Ricard Manager, Senior Field Marketing (Los Angeles) still live but 7+ years — too senior to number.",
+    "Accor Senior Manager, Brand Marketing (Raffles, New York) live but 6+ years luxury hospitality — too senior.",
+    "Hennessy Associate Brand Manager (MHUS01213) returned 404 today — not numbered.",
+    "Polène / ba&sh Americas / Sézane / Interparfums company boards: no new confirmed US marketing openings.",
+    "None of today's new postings explicitly lists travel to Paris (Redken notes domestic travel up to 25%)."
+  ],
+  "jobs": [
+    {
+      "number": 31,
+      "title": "Assistant Marketing Manager, Redken US (Hair Color)",
+      "company": "L'Oréal USA",
+      "location": "New York",
+      "work_arrangement": "Hybrid (3 days in office, 2 from home)",
+      "salary": "$84.5k–$120.4k",
+      "posted": "2026-10-14",
+      "french_tie": "L'Oréal (Paris HQ); Redken is in the Professional Products Division.",
+      "travel": "Domestic travel periodically, up to 25% — posting does not mention Paris",
+      "why": "Real assistant brand-marketing seat on Redken's U.S. demi-permanent haircolor category: 360° plans, launches, SalonCentric, social/digital, sampling, and e-commerce — with only 1–3 years required. Closest new role today to a realistic entry from AE + college marketing internships.",
+      "stretch": false,
+      "url": "https://careers.loreal.com/en/job/new-york/asst-mgr-marketing-hair-color/3456/45948383552",
+      "image": {
+        "src": "assets/img/loreal.jpg",
+        "kind": "photo",
+        "label": "L'ORÉAL",
+        "source": "https://www.loreal.com/en/ (og:image)"
+      },
+      "rank": 1,
+      "section": "new",
+      "title_note": "Careers site short title is \"Asst Mgr - Marketing- Hair Color\"; role body is Assistant Marketing Manager, Redken US (Hair Color)."
+    },
+    {
+      "number": 32,
+      "title": "Associate Brand Manager, Dom Pérignon",
+      "company": "Moët Hennessy USA (LVMH)",
+      "location": "New York",
+      "work_arrangement": "Hybrid, 3 days a week (NYC office)",
+      "salary": "$92k–$115k + bonus",
+      "posted": "2026-08-09",
+      "posted_extra": "still open; newly numbered today",
+      "french_tie": "LVMH; Dom Pérignon Maison — you'd support brand programming aligned with Maison strategy.",
+      "travel": "Not mentioned in the posting",
+      "why": "Champagne brand seat supporting Dom Pérignon's U.S. marketing programs, activations, A&P, and luxury POS with commercial and trade partners — French Maison brand with global prestige.",
+      "stretch": true,
+      "stretch_note": "Asks for 3–5 years of progressive brand marketing or experiential management in luxury, fine wine & spirits, or prestige lifestyle.",
+      "url": "https://www.lvmh.com/en/join-us/our-job-offers/MHUS01289",
+      "image": {
+        "src": "assets/img/moet-chandon.png",
+        "kind": "logo",
+        "bg": "#ffffff",
+        "source": "https://www.moet.com/ (header logo)"
+      },
+      "rank": 2,
+      "section": "new"
+    },
+    {
+      "number": 33,
+      "title": "Associate Brand Manager, Krug & Ruinart",
+      "company": "Moët Hennessy USA (LVMH)",
+      "location": "New York",
+      "work_arrangement": "Hybrid, 3 days a week (NYC office)",
+      "salary": "$92k–$115k + bonus",
+      "posted": "2026-07-20",
+      "posted_extra": "still open; newly numbered today",
+      "french_tie": "LVMH; Krug & Ruinart Maisons — posting names liaison work with Maison teams in France.",
+      "travel": "Maison visits listed among hosting experiences; posting does not specify Paris travel frequency",
+      "why": "Luxury champagne brand programs and high-end experiential hosting (VIP dinners, chef partnerships, Maison visits) with an explicit operational liaison to Maison teams in France — strong France-facing brand work.",
+      "stretch": true,
+      "stretch_note": "Asks for 3–5 years of progressive brand marketing or experiential management in luxury goods, fine wine & spirits, or prestige lifestyle.",
+      "url": "https://www.lvmh.com/en/join-us/our-job-offers/MHUS01286",
+      "image": {
+        "src": "assets/img/moet-chandon.png",
+        "kind": "logo",
+        "bg": "#ffffff",
+        "source": "https://www.moet.com/ (header logo)"
+      },
+      "rank": 3,
+      "section": "new"
+    },
+    {
+      "number": 20,
+      "title": "Assistant Manager, Global Brand Partnerships (NYX Professional Makeup)",
+      "company": "L'Oréal USA",
+      "location": "El Segundo, CA",
+      "salary": "$77k–$110k base + bonus",
+      "posted": "2026-10-09",
+      "french_tie": "L'Oréal (Paris HQ); NYX's global brand partnerships team.",
+      "travel": "Not mentioned in the posting",
+      "why": "Still the strongest LA fit: partnerships with fandoms and communities, no minimum years listed.",
+      "stretch": false,
+      "url": "https://careers.loreal.com/en/job/el-segundo/assistant-manager-global-brand-partnerships-nyx/3456/45753681536",
+      "image": {
+        "src": "assets/img/loreal.jpg",
+        "kind": "photo",
+        "label": "L'ORÉAL",
+        "source": "https://www.loreal.com/en/ (og:image)"
+      },
+      "rank": 4,
+      "section": "earlier",
+      "from_earlier": true
+    },
+    {
+      "number": 3,
+      "title": "Assistant Manager - Global Marketing (Youth to the People)",
+      "company": "L'Oréal USA",
+      "location": "El Segundo, CA",
+      "french_tie": "L'Oréal (Paris HQ); Youth To The People global marketing.",
+      "travel": "Not mentioned in the posting",
+      "why": "Still open — the role you already asked for a tailored resume for.",
+      "stretch": false,
+      "url": "https://careers.loreal.com/en/job/el-segundo/assistant-manager-global-marketing-youth-to-the-people/3456/44865009024",
+      "image": {
+        "src": "assets/img/loreal.jpg",
+        "kind": "photo",
+        "label": "L'ORÉAL",
+        "source": "https://www.loreal.com/en/ (og:image)"
+      },
+      "rank": 5,
+      "section": "earlier",
+      "from_earlier": true
+    },
+    {
+      "number": 10,
+      "title": "Trade Marketing Associate Manager, Erborian",
+      "company": "Erborian (L'Occitane Group)",
+      "location": "New York",
+      "work_arrangement": "About 2 days a week in the office",
+      "salary": "$70k–$75k + bonus",
+      "french_tie": "Part of L'Occitane Group, the Provence-born beauty group.",
+      "travel": "Not mentioned in the posting",
+      "why": "Still live on L'Occitane's applytojob board — Ulta-facing trade marketing.",
+      "stretch": false,
+      "url": "https://loccitaneenprovence.applytojob.com/apply/fhMa3yXIgi/Trade-Marketing-Associate-Manager-Erborian",
+      "image": {
+        "src": "assets/img/erborian.png",
+        "kind": "logo",
+        "bg": "#ffffff",
+        "source": "https://www.erborian.com/ (og:image)"
+      },
+      "rank": 6,
+      "section": "earlier",
+      "from_earlier": true
+    }
+  ]
+}
