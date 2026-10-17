@@ -1,0 +1,118 @@
+{
+  "date": "2026-10-17",
+  "checked": "2026-10-17",
+  "title": "Two new stretch roles + your top open favorites",
+  "intro": "A quiet Saturday on the French-tied boards: two newly posted roles worth a look, both stretches on years of experience — a Biolage advocacy & influencer partnerships manager at L'Oréal in New York, and a Hennessy field marketing manager in the Bay Area. Heads up: NYX Global Brand Partnerships (#20) has closed. Your YTTP favorite (#3) and Redken (#31) are still open.",
+  "sections": [
+    {
+      "key": "new",
+      "title": "New today",
+      "intro": "Verified live Oct 17. Both are stretches on years required."
+    },
+    {
+      "key": "earlier",
+      "title": "Still open (favorites)",
+      "intro": "Spot-checked live this morning on careers.loreal.com."
+    }
+  ],
+  "notes": [
+    "#20 Assistant Manager, Global Brand Partnerships (NYX) now returns a closed-job page on careers.loreal.com.",
+    "SMCP Group: Greenhouse still NY corporate (AR Coordinator, Allocation Planner Maje) + retail only — no US marketing/brand/partnerships.",
+    "Christian Dior Couture has a Trainee, PR – Entertainment Relations role in LA, but it's a $20/hour postgraduate trainee program, so it isn't numbered.",
+    "L'Oréal Manager, Affiliate Activation (CPD TikTok Shop, NY) is live but asks for 5–7 years — too senior to number.",
+    "Pernod Ricard Manager, Senior Field Marketing (Los Angeles) still live but 7+ years.",
+    "L'Occitane, Polène, Diptyque, and Pernod US boards: no new confirmed US marketing openings."
+  ],
+  "jobs": [
+    {
+      "number": 34,
+      "rank": 1,
+      "section": "new",
+      "title": "Manager, Advocacy and Influence — Biolage",
+      "company": "L'Oréal USA",
+      "url": "https://careers.loreal.com/en/job/new-york/manager-advocacy-and-influence-biolage/3456/46018368384",
+      "location": "New York (10 Hudson Yards)",
+      "work_arrangement": "Hybrid (3 days in office, 2 from home), per the posting",
+      "posted": "2026-10-16",
+      "french_tie": "L'Oréal (Paris HQ); Biolage is in the Professional Products Division.",
+      "travel": "Domestic travel periodically (25%) — posting does not mention Paris",
+      "why": "A partnerships-heavy seat: creator casting and contract negotiation, agency and partner relationships, retailer-specific programs, and creator events for Biolage. Relationship building and negotiating map well to your AE background.",
+      "stretch": true,
+      "stretch_note": "Asks for 4–6 years in marketing, branding, or product management.",
+      "image": {
+        "src": "assets/img/loreal.jpg",
+        "kind": "photo",
+        "label": "L'ORÉAL",
+        "source": "https://www.loreal.com/en/ (og:image)"
+      }
+    },
+    {
+      "number": 35,
+      "rank": 2,
+      "section": "new",
+      "title": "Manager, Field Marketing — Hennessy (Northern California)",
+      "company": "Moët Hennessy USA (LVMH)",
+      "url": "https://www.lvmh.com/en/join-us/our-job-offers/MHUS01290",
+      "location": "San Francisco / East Bay, CA (must live in the SF–Oakland–East Bay market)",
+      "work_arrangement": "Remote in market",
+      "salary": "$110k–$137k + bonus",
+      "french_tie": "Hennessy is a Cognac house in France; Moët Hennessy is part of LVMH (Paris HQ).",
+      "travel": "Not mentioned in the posting",
+      "why": "Localizing Hennessy's brand programming and community engagement in Northern California — hands-on brand marketing with lots of partner and account relationships.",
+      "stretch": true,
+      "stretch_note": "Requires a minimum of 5 years, and it's Bay Area rather than LA.",
+      "image": {
+        "kind": "monogram",
+        "text": "HENNESSY",
+        "sub": "Moët Hennessy",
+        "bg": "#1a1a1a",
+        "fg": "#d9b46a",
+        "spaced": true
+      }
+    },
+    {
+      "number": 3,
+      "title": "Assistant Manager - Global Marketing (Youth to the People)",
+      "company": "L'Oréal USA",
+      "location": "El Segundo, CA",
+      "french_tie": "L'Oréal (Paris HQ); Youth To The People global marketing.",
+      "travel": "Not mentioned in the posting",
+      "why": "Still open — the YTTP global marketing role you already asked for a tailored resume for.",
+      "stretch": false,
+      "url": "https://careers.loreal.com/en/job/el-segundo/assistant-manager-global-marketing-youth-to-the-people/3456/44865009024",
+      "image": {
+        "src": "assets/img/loreal.jpg",
+        "kind": "photo",
+        "label": "L'ORÉAL",
+        "source": "https://www.loreal.com/en/ (og:image)"
+      },
+      "rank": 3,
+      "section": "earlier",
+      "from_earlier": true
+    },
+    {
+      "number": 31,
+      "title": "Assistant Marketing Manager, Redken US (Hair Color)",
+      "company": "L'Oréal USA",
+      "location": "New York",
+      "work_arrangement": "Hybrid (3 days in office, 2 from home)",
+      "salary": "$84.5k–$120.4k",
+      "posted": "2026-10-14",
+      "french_tie": "L'Oréal (Paris HQ); Redken is in the Professional Products Division.",
+      "travel": "Domestic travel periodically, up to 25% — posting does not mention Paris",
+      "why": "Still open — the most realistic-level new role from this week (1–3 years required).",
+      "stretch": false,
+      "url": "https://careers.loreal.com/en/job/new-york/asst-mgr-marketing-hair-color/3456/45948383552",
+      "image": {
+        "src": "assets/img/loreal.jpg",
+        "kind": "photo",
+        "label": "L'ORÉAL",
+        "source": "https://www.loreal.com/en/ (og:image)"
+      },
+      "rank": 4,
+      "section": "earlier",
+      "title_note": "Careers site short title is \"Asst Mgr - Marketing- Hair Color\"; role body is Assistant Marketing Manager, Redken US (Hair Color).",
+      "from_earlier": true
+    }
+  ]
+}
