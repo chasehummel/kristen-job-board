@@ -1,0 +1,148 @@
+{
+ "date": "2026-10-18",
+ "checked": "2026-10-18",
+ "title": "Three new Moët Hennessy roles, two at your level",
+ "intro": "A good Sunday on the Moët Hennessy board: a Champagne field marketing role in New York that counts sales experience toward its 3 years, a Veuve Clicquot associate brand manager seat (a stretch on brand experience), and a Hennessy field marketing role based in Charleston. Heads up: the Youth To The People global marketing role (#3) now shows as closed.",
+ "sections": [
+  {
+   "key": "new",
+   "title": "New today",
+   "intro": "Verified live Oct 18 on lvmh.com."
+  },
+  {
+   "key": "earlier",
+   "title": "Still open (favorites)",
+   "intro": "Spot-checked live this morning."
+  }
+ ],
+ "notes": [
+  "#3 Assistant Manager, Global Marketing (Youth to the People) now returns a not-found page on careers.loreal.com and no longer appears in its search results.",
+  "Moët Hennessy also posted a Sr. Manager, Trade Marketing & Specialized Channels role in New York, but it asks for 5+ years, so it isn't numbered.",
+  "Moët Hennessy's Associate Manager, People, Communications & Culture (NY) is internal communications, and its Trade CRM Specialist (NY) is Salesforce training and sales operations, so neither is numbered.",
+  "SMCP Group: Greenhouse still shows NY corporate (AR Coordinator, Allocation Planner Maje) and retail only, with no US marketing, brand, or partnerships roles.",
+  "L'Oréal USA's newest US postings since yesterday are retail, operations, and sales roles, with no new marketing fits.",
+  "L'Occitane's North America board is unchanged (retail plus the contract TikTok and education roles)."
+ ],
+ "jobs": [
+  {
+   "number": 36,
+   "rank": 1,
+   "section": "new",
+   "title": "Associate Manager, Field Marketing – Champagne & Sparkling (NYC)",
+   "company": "Moët Hennessy USA (LVMH)",
+   "url": "https://www.lvmh.com/en/join-us/our-job-offers/MHUS01313",
+   "location": "New York, NY",
+   "work_arrangement": "3 days a week in the NYC office, plus in market as the business needs",
+   "salary": "$101k–$126k + bonus",
+   "posted": "2026-09-15",
+   "posted_extra": "still open; new to your list today",
+   "french_tie": "Moët Hennessy (LVMH, Paris HQ); the role runs local programming for the Champagne & Sparkling portfolio, with a focus on Prestige Champagnes.",
+   "travel": "Not mentioned in the posting",
+   "why": "Localizing Champagne brand programming in NYC: flagship activations, winemaker visits, trade dinners, and building relationships with sommeliers, distributors, and accounts. It's relationship-heavy brand work that suits your AE background.",
+   "stretch": false,
+   "stretch_note": "Asks for 3+ years in field, trade, or brand marketing, sales, or a related commercial role, so your Gartner years count.",
+   "image": {
+    "src": "assets/img/moet-chandon.png",
+    "kind": "logo",
+    "bg": "#ffffff",
+    "source": "https://www.moet.com/ (header logo)"
+   }
+  },
+  {
+   "number": 37,
+   "rank": 2,
+   "section": "new",
+   "title": "Associate Brand Manager, Veuve Clicquot",
+   "company": "Moët Hennessy USA (LVMH)",
+   "url": "https://www.lvmh.com/en/join-us/our-job-offers/MHUS01323",
+   "location": "New York, NY",
+   "work_arrangement": "Hybrid, 3 days a week in the NYC office",
+   "salary": "$92k–$115k + bonus",
+   "posted": "2026-10-13",
+   "french_tie": "Veuve Clicquot is a Champagne Maison of Moët Hennessy (LVMH, Paris HQ); the role works with the Maison brand team.",
+   "travel": "Not mentioned in the posting",
+   "why": "A true brand management seat: 360 marketing programs and activations, brand-owned channels like CRM and the brand site, A&P budget tracking, and annual brand planning for a famous French Champagne house.",
+   "stretch": true,
+   "stretch_note": "Asks for 3–5 years of progressive brand marketing or experiential management in luxury, wine & spirits, or a similar category.",
+   "image": {
+    "kind": "monogram",
+    "text": "VEUVE CLICQUOT",
+    "sub": "Moët Hennessy",
+    "bg": "#f2a900",
+    "fg": "#1a1a1a",
+    "spaced": true
+   }
+  },
+  {
+   "number": 38,
+   "rank": 3,
+   "section": "new",
+   "title": "Associate Manager, Field Marketing, Hennessy (SC, NC & LA)",
+   "company": "Moët Hennessy USA (LVMH)",
+   "url": "https://www.lvmh.com/en/join-us/our-job-offers/MHUS01320",
+   "location": "Charleston, SC (must live in the Charleston metro area)",
+   "work_arrangement": "Remote in market",
+   "salary": "$79k–$99k + bonus",
+   "posted": "2026-10-07",
+   "french_tie": "Hennessy is a Cognac house in France; Moët Hennessy is part of LVMH (Paris HQ).",
+   "travel": "Substantial in-market travel across South Carolina, plus travel to North Carolina and Louisiana; Paris is not mentioned",
+   "why": "Hands-on brand programming and partnerships with key accounts, cultural organizations, community leaders, and influencers. Your level fits, but it's far from LA.",
+   "stretch": false,
+   "stretch_note": "Asks for 3+ years in field, trade, or brand marketing, sales, or a related commercial role; the catch is the Charleston location.",
+   "image": {
+    "kind": "monogram",
+    "text": "HENNESSY",
+    "sub": "Moët Hennessy",
+    "bg": "#1a1a1a",
+    "fg": "#d9b46a",
+    "spaced": true
+   }
+  },
+  {
+   "number": 31,
+   "rank": 4,
+   "section": "earlier",
+   "from_earlier": true,
+   "title": "Assistant Marketing Manager, Redken US (Hair Color)",
+   "company": "L'Oréal USA",
+   "url": "https://careers.loreal.com/en/job/new-york/asst-mgr-marketing-hair-color/3456/45948383552",
+   "location": "New York",
+   "work_arrangement": "Hybrid (3 days in office, 2 from home)",
+   "salary": "$84.5k–$120.4k",
+   "posted": "2026-10-14",
+   "french_tie": "L'Oréal (Paris HQ); Redken is in the Professional Products Division.",
+   "travel": "Domestic travel periodically, up to 25%; posting does not mention Paris",
+   "why": "Still open, and still the most realistic-level L'Oréal role from this week (1–3 years required).",
+   "stretch": false,
+   "image": {
+    "src": "assets/img/loreal.jpg",
+    "kind": "photo",
+    "label": "L'ORÉAL",
+    "source": "https://www.loreal.com/en/ (og:image)"
+   }
+  },
+  {
+   "number": 34,
+   "rank": 5,
+   "section": "earlier",
+   "from_earlier": true,
+   "title": "Manager, Advocacy and Influence — Biolage",
+   "company": "L'Oréal USA",
+   "url": "https://careers.loreal.com/en/job/new-york/manager-advocacy-and-influence-biolage/3456/46018368384",
+   "location": "New York (10 Hudson Yards)",
+   "work_arrangement": "Hybrid (3 days in office, 2 from home), per the posting",
+   "posted": "2026-10-16",
+   "french_tie": "L'Oréal (Paris HQ); Biolage is in the Professional Products Division.",
+   "travel": "Domestic travel periodically (25%); posting does not mention Paris",
+   "why": "Still open: creator and agency partnerships for Biolage.",
+   "stretch": true,
+   "stretch_note": "Asks for 4–6 years in marketing, branding, or product management.",
+   "image": {
+    "src": "assets/img/loreal.jpg",
+    "kind": "photo",
+    "label": "L'ORÉAL",
+    "source": "https://www.loreal.com/en/ (og:image)"
+   }
+  }
+ ]
+}
