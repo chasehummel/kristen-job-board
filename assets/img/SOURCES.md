@@ -21,3 +21,6 @@ Monogram tiles (no image file): CHANEL (site blocked automated download), Saatch
 
 Added 2026-10-10: michelin.png from https://www.michelinman.com/ (site icon, android-chrome-512x512.png).
 Monogram tiles: fresh (fresh.com blocked automated download), Cartier (cartier.com blocked automated download).
+
+Added 2026-10-19: urw.svg from https://www.urw.com/join-us (site header logo, LOGOURWRGBredblackverysmall.svg on URW's Contentful CDN).
+Added 2026-10-19: sol-de-janeiro.svg from https://soldejaneiro.com/ (header logo, /cdn/shop/files/logo.svg).
