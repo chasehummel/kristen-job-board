@@ -24,3 +24,4 @@ Monogram tiles: fresh (fresh.com blocked automated download), Cartier (cartier.c
 
 Added 2026-10-19: urw.svg from https://www.urw.com/join-us (site header logo, LOGOURWRGBredblackverysmall.svg on URW's Contentful CDN).
 Added 2026-10-19: sol-de-janeiro.svg from https://soldejaneiro.com/ (header logo, /cdn/shop/files/logo.svg).
+Added 2026-10-20: lactalis.svg from https://www.lactalis.com/ (site header logo, Lactalis-logo.svg on Lactalis's Contentful CDN).
