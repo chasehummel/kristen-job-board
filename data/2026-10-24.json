@@ -1,0 +1,168 @@
+{
+  "date": "2026-10-24",
+  "checked": "2026-10-24",
+  "title": "A Lacoste digital-marketing seat in New York",
+  "intro": "One new role today: Lacoste's Assistant E-Commerce Manager in New York, running digital content and campaign storytelling with local and global teams. Your favorites, including NYX in El Segundo, the Sol de Janeiro global comms role, and Moët & Chandon, are still open.",
+  "sections": [
+    {
+      "key": "new",
+      "title": "New today",
+      "intro": "Verified live Oct 24 on LinkedIn."
+    },
+    {
+      "key": "earlier",
+      "title": "Still open (favorites)",
+      "intro": "Spot-checked live this morning."
+    }
+  ],
+  "notes": [
+    "Moët Hennessy posted a Hennessy Field Marketing Manager role in Northern California (remote in the San Francisco/East Bay market, $110k–$137k + bonus), but it asks for 5–7+ years in wine, spirits, CPG, or retail, so it isn't numbered.",
+    "L'Oréal reposted two roles you've already seen on LinkedIn: Kiehl's Global Social Media (#46) and Redken Advocacy & Influence (#30). Both are still open.",
+    "The Interparfums Marketing Administrator listing (#45) and the Westfield Topanga role (#39) no longer load on LinkedIn, so they're off the favorites list.",
+    "SMCP Group: Greenhouse still shows only retail roles, with no US marketing, brand, or partnerships roles."
+  ],
+  "jobs": [
+    {
+      "number": 50,
+      "rank": 1,
+      "section": "new",
+      "title": "Assistant E-Commerce Manager",
+      "company": "Lacoste",
+      "url": "https://www.linkedin.com/jobs/view/assistant-e-commerce-manager-at-lacoste-4475062765",
+      "location": "New York, NY",
+      "posted": "2026-10-24",
+      "posted_label": "Listed on LinkedIn",
+      "french_tie": "Lacoste is an iconic French brand (part of MF Brands Group). The posting says the role sits at the intersection of local and global teams and gives feedback to global partners.",
+      "travel": "Not mentioned in the posting",
+      "why": "A digital-marketing seat at a French brand: you'd own the digital content calendar across site, email, SMS, app, and paid media, partner with Marketing to line up site storytelling with brand campaigns, and report on content KPIs. Your organized, data-driven AE habits (account plans, QBR reporting) carry over.",
+      "stretch": true,
+      "stretch_note": "Asks for 2+ years in online merchandising or e-commerce operations, plus web analytics (Google Analytics, Adobe). The years fit; the e-commerce-specific experience is the gap.",
+      "image": {
+        "kind": "monogram",
+        "text": "Lacoste",
+        "sub": "Paris",
+        "bg": "#e8f0ea",
+        "fg": "#004526"
+      }
+    },
+    {
+      "number": 47,
+      "rank": 2,
+      "section": "earlier",
+      "title": "Manager, US Marketing (NYX Professional Makeup)",
+      "company": "L'Oréal USA",
+      "url": "https://careers.loreal.com/en/job/el-segundo/manager-us-marketing-nyx/3456/46180519616",
+      "location": "El Segundo, CA",
+      "salary": "$90k–$128k + bonus",
+      "posted": "2026-10-20",
+      "french_tie": "L'Oréal (Paris HQ); NYX Professional Makeup is in L'Oréal's Consumer Products Division.",
+      "travel": "Not mentioned in the posting",
+      "why": "An LA brand marketing job on a brand you've seen before (your earlier NYX picks #1 and #20 were the global team). You'd run US go-to-market for launches and 360 campaigns, work with the global marketing team to make campaigns land in the US, brief creators and agencies with the Social and Culture teams, and manage budgets and forecasting.",
+      "stretch": true,
+      "stretch_note": "Asks for 4–6 years of brand marketing in beauty, CPG, or retail (beauty strongly preferred).",
+      "image": {
+        "src": "assets/img/loreal.jpg",
+        "kind": "photo",
+        "label": "L'ORÉAL",
+        "source": "https://www.loreal.com/en/ (og:image)"
+      },
+      "from_earlier": true
+    },
+    {
+      "number": 48,
+      "rank": 3,
+      "section": "earlier",
+      "title": "Assistant Manager, Global Communications",
+      "company": "Sol de Janeiro (L'Occitane Group)",
+      "url": "https://job-boards.greenhouse.io/soldejaneiro/jobs/5254311007",
+      "location": "New York, NY",
+      "work_arrangement": "Hybrid (New York metro)",
+      "salary": "$80k–$90k + bonus program",
+      "posted": "2026-10-20",
+      "french_tie": "Sol de Janeiro is part of L'Occitane Group (founded in Provence), and the posting says the brand has teams in Paris, London, and Germany.",
+      "travel": "Not mentioned in the posting",
+      "why": "A global-facing seat at your level: you'd keep regional markets, agency partners, and global headquarters connected, help run launches, events, and brand experiences, draft press materials, and pull together monthly reporting for leadership. Your client-facing, organized AE background maps well to the market and agency coordination.",
+      "stretch": false,
+      "image": {
+        "src": "assets/img/sol-de-janeiro.svg",
+        "kind": "logo",
+        "bg": "#ffffff",
+        "source": "https://soldejaneiro.com/ (header logo)"
+      },
+      "from_earlier": true
+    },
+    {
+      "number": 49,
+      "rank": 4,
+      "section": "earlier",
+      "title": "Brand Manager, Moët & Chandon",
+      "company": "Moët Hennessy USA (LVMH)",
+      "url": "https://www.lvmh.com/en/join-us/our-job-offers/MHUS01325",
+      "location": "New York, NY",
+      "work_arrangement": "Hybrid (3 days a week in the NYC office)",
+      "salary": "$110k–$137k + bonus",
+      "posted": "2026-10-19",
+      "french_tie": "Moët & Chandon is the Champagne house in Épernay, part of Moët Hennessy (LVMH, Paris HQ). You'd turn the Maison's global brand guidelines into US plans with the Maison and Brand Director.",
+      "travel": "Not mentioned in the posting",
+      "why": "Still open from Thursday. A partnerships-heavy brand job: you'd run 360 campaigns across media, creators, PR, and experiences, turn partnerships into programs that drive sales, and deliver luxury guest experiences at the US Open and F1. Your AE strengths in presenting, VIP-facing polish, and juggling many stakeholders line up with what they describe.",
+      "stretch": true,
+      "stretch_note": "The header says a minimum of 3 years, but the profile asks for 5+ years of brand marketing with independent campaign ownership.",
+      "image": {
+        "src": "assets/img/moet-chandon.png",
+        "kind": "logo",
+        "bg": "#ffffff",
+        "source": "https://www.moet.com/ (header logo)"
+      },
+      "from_earlier": true
+    },
+    {
+      "number": 43,
+      "rank": 5,
+      "section": "earlier",
+      "title": "Trade Marketing Manager, North America",
+      "company": "Interparfums, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/trade-marketing-manager-north-america-at-interparfums-inc-4472572051",
+      "location": "New York, NY",
+      "work_arrangement": "In the office Monday–Thursday, remote on Fridays",
+      "salary": "$90k–$110k + bonus opportunity",
+      "posted": "2026-10-01",
+      "posted_label": "Listed on LinkedIn",
+      "french_tie": "Interparfums, Inc. owns most of Interparfums SA in Paris (the same group as your earlier #11).",
+      "travel": "The posting says the job may require travel to company locations, clients, vendors, and industry events. It doesn't mention Paris.",
+      "why": "Still open from yesterday. A partnerships-heavy marketing job: you'd work with Sales, distributors, and the field team on retailer plans, present at key US retailer and distributor meetings, and run launch calendars and in-store events for prestige fragrance brands. Your QBRs and account planning carry over well. The posting also says the company has a low hierarchy with regular visibility to the C-suite.",
+      "stretch": true,
+      "stretch_note": "Asks for 3+ years in integrated or trade marketing in the US market. Beauty experience is strongly preferred, and Adobe Suite is required.",
+      "image": {
+        "src": "assets/img/interparfums.png",
+        "kind": "logo",
+        "bg": "#f3ede3",
+        "source": "https://www.interparfumsinc.com/ (site icon)"
+      },
+      "from_earlier": true
+    },
+    {
+      "number": 44,
+      "rank": 6,
+      "section": "earlier",
+      "title": "Associate Brand Manager – siggi's",
+      "company": "Lactalis USA",
+      "url": "https://www.linkedin.com/jobs/view/associate-brand-manager-siggi-s-at-lactalis-usa-4474068655",
+      "location": "Bedford, NH",
+      "work_arrangement": "Hybrid, 3 days a week in the Bedford office",
+      "posted": "2026-10-06",
+      "posted_label": "Listed on LinkedIn",
+      "french_tie": "Lactalis is a family-owned French dairy group (the world's largest dairy company, per the posting). siggi's is one of its US yogurt brands.",
+      "travel": "Not mentioned in the posting",
+      "why": "Still open from yesterday. A real brand management job at about your level: brand plans, campaigns across digital, social, and in-store, and consumer programs built on events, partnerships, and promotions. The posting calls it a small, entrepreneurial team and encourages applying even if you don't meet every qualification.",
+      "stretch": false,
+      "stretch_note": "Asks for 1–3 years of brand or product marketing (CPG preferred). Your marketing internships and your partnership work at Gartner are what you'd point to.",
+      "image": {
+        "src": "assets/img/lactalis.svg",
+        "kind": "logo",
+        "bg": "#ffffff",
+        "source": "https://www.lactalis.com/ (site header logo, Lactalis-logo.svg on Lactalis's Contentful CDN)"
+      },
+      "from_earlier": true
+    }
+  ]
+}
