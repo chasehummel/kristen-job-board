@@ -1,0 +1,190 @@
+{
+  "date": "2026-10-25",
+  "checked": "2026-10-25",
+  "title": "Two global marketing seats in New York",
+  "intro": "Three new roles today, all in New York: a Sol de Janeiro global campaign role, an L'Oréal global marketing job on Matrix that mentions international travel, and a Kiehl's brand-voice role. Your favorites, including NYX in El Segundo, are still open.",
+  "sections": [
+    {
+      "key": "new",
+      "title": "New today",
+      "intro": "Verified live Oct 25 on Greenhouse and LinkedIn."
+    },
+    {
+      "key": "earlier",
+      "title": "Still open (favorites)",
+      "intro": "Spot-checked live this morning."
+    }
+  ],
+  "notes": [
+    "L'Oréal reposted the Biolage Advocacy & Influence role (#34) on LinkedIn, so it isn't numbered again.",
+    "L'Oréal's El Segundo search shows no new LA marketing roles beyond #2 and #47.",
+    "SMCP Group: Greenhouse still shows only retail roles, with no US marketing, brand, or partnerships roles."
+  ],
+  "jobs": [
+    {
+      "number": 51,
+      "rank": 1,
+      "section": "new",
+      "title": "Assistant Manager, Integrated Brand Media",
+      "company": "Sol de Janeiro (L'Occitane Group)",
+      "url": "https://job-boards.greenhouse.io/soldejaneiro/jobs/5254273007",
+      "location": "New York, NY",
+      "work_arrangement": "Hybrid (New York metro)",
+      "salary": "$80k–$90k + bonus program",
+      "posted": "2026-10-05",
+      "french_tie": "Sol de Janeiro is part of L'Occitane Group (founded in Provence), and the posting says the brand has teams in Paris, London, and Germany.",
+      "travel": "Not mentioned in the posting",
+      "why": "A global campaign-coordination seat: you'd keep media plans, creative briefs, asset timelines, and campaign talent on track across global and regional teams and agency partners, then help with reporting and recaps. It's the same organized, many-stakeholder juggling you do as an AE, and it sits at the same Assistant Manager level and pay as #48.",
+      "stretch": true,
+      "stretch_note": "Asks for 4+ years in media, marketing, advertising, talent, influencer marketing, project management, or a related field. Your years fit; the marketing-specific experience is the gap.",
+      "image": {
+        "src": "assets/img/sol-de-janeiro.svg",
+        "kind": "logo",
+        "bg": "#ffffff",
+        "source": "https://soldejaneiro.com/ (header logo)"
+      }
+    },
+    {
+      "number": 52,
+      "rank": 2,
+      "section": "new",
+      "title": "Manager, Global Marketing (Matrix), Professional Products Division",
+      "company": "L'Oréal USA",
+      "url": "https://www.linkedin.com/jobs/view/manager-global-marketing-matrix-dmi-at-l-or%C3%A9al-4481697808",
+      "location": "New York, NY (10 Hudson Yards)",
+      "work_arrangement": "Hybrid (3 days in office, 2 from home)",
+      "salary": "$117.4k–$167.3k",
+      "posted": "2026-10-24",
+      "posted_label": "Listed on LinkedIn",
+      "french_tie": "L'Oréal (Paris HQ). This is a global marketing role on Matrix haircolor, working across key markets worldwide.",
+      "travel": "The posting asks for the ability to travel domestically or internationally periodically (up to 25%).",
+      "why": "A true global-team job: you'd shape Matrix haircolor launches and the Supersync demi-permanent line, dig into key markets for growth ideas, and work with international teams and campaign managers. The international travel is the closest thing yet to the Paris-facing role you asked for.",
+      "stretch": true,
+      "stretch_note": "Asks for 3–5 years of marketing experience, ideally in beauty or professional hair, and leans toward product marketing.",
+      "image": {
+        "src": "assets/img/loreal.jpg",
+        "kind": "photo",
+        "label": "L'ORÉAL",
+        "source": "https://www.loreal.com/en/ (og:image)"
+      }
+    },
+    {
+      "number": 53,
+      "rank": 3,
+      "section": "new",
+      "title": "Manager, Brand Voice Activation Lead (Kiehl's)",
+      "company": "L'Oréal USA",
+      "url": "https://www.linkedin.com/jobs/view/manager-brand-voice-activation-lead-bval-kiehl-s-at-l-or%C3%A9al-4479171736",
+      "location": "New York, NY (Hudson Yards)",
+      "work_arrangement": "Hybrid (3 days in office, 2 from home)",
+      "salary": "$98.4k–$140.2k",
+      "posted": "2026-10-24",
+      "posted_label": "Listed on LinkedIn",
+      "french_tie": "L'Oréal (Paris HQ); Kiehl's is part of L'Oréal.",
+      "travel": "The posting says travel may be required.",
+      "why": "You'd be the go-between for Kiehl's consumer care team and the brand's e-commerce, marketing, and product teams, turning customer feedback into recommendations and making sure the brand voice carries through service channels, social, and AI chat responses. Your account-management and presenting skills fit the liaison side.",
+      "stretch": true,
+      "stretch_note": "No years are listed, but it's a manager-level role that leans on consumer insights and data analysis, and it sits closer to customer care than to brand marketing.",
+      "image": {
+        "src": "assets/img/loreal.jpg",
+        "kind": "photo",
+        "label": "L'ORÉAL",
+        "source": "https://www.loreal.com/en/ (og:image)"
+      }
+    },
+    {
+      "number": 47,
+      "rank": 4,
+      "section": "earlier",
+      "title": "Manager, US Marketing (NYX Professional Makeup)",
+      "company": "L'Oréal USA",
+      "url": "https://careers.loreal.com/en/job/el-segundo/manager-us-marketing-nyx/3456/46180519616",
+      "location": "El Segundo, CA",
+      "salary": "$90k–$128k + bonus",
+      "posted": "2026-10-20",
+      "french_tie": "L'Oréal (Paris HQ); NYX Professional Makeup is in L'Oréal's Consumer Products Division.",
+      "travel": "Not mentioned in the posting",
+      "why": "An LA brand marketing job on a brand you've seen before (your earlier NYX picks #1 and #20 were the global team). You'd run US go-to-market for launches and 360 campaigns, work with the global marketing team to make campaigns land in the US, brief creators and agencies with the Social and Culture teams, and manage budgets and forecasting.",
+      "stretch": true,
+      "stretch_note": "Asks for 4–6 years of brand marketing in beauty, CPG, or retail (beauty strongly preferred).",
+      "image": {
+        "src": "assets/img/loreal.jpg",
+        "kind": "photo",
+        "label": "L'ORÉAL",
+        "source": "https://www.loreal.com/en/ (og:image)"
+      },
+      "from_earlier": true
+    },
+    {
+      "number": 48,
+      "rank": 5,
+      "section": "earlier",
+      "title": "Assistant Manager, Global Communications",
+      "company": "Sol de Janeiro (L'Occitane Group)",
+      "url": "https://job-boards.greenhouse.io/soldejaneiro/jobs/5254311007",
+      "location": "New York, NY",
+      "work_arrangement": "Hybrid (New York metro)",
+      "salary": "$80k–$90k + bonus program",
+      "posted": "2026-10-20",
+      "french_tie": "Sol de Janeiro is part of L'Occitane Group (founded in Provence), and the posting says the brand has teams in Paris, London, and Germany.",
+      "travel": "Not mentioned in the posting",
+      "why": "A global-facing seat at your level: you'd keep regional markets, agency partners, and global headquarters connected, help run launches, events, and brand experiences, draft press materials, and pull together monthly reporting for leadership. Your client-facing, organized AE background maps well to the market and agency coordination.",
+      "stretch": false,
+      "image": {
+        "src": "assets/img/sol-de-janeiro.svg",
+        "kind": "logo",
+        "bg": "#ffffff",
+        "source": "https://soldejaneiro.com/ (header logo)"
+      },
+      "from_earlier": true
+    },
+    {
+      "number": 49,
+      "rank": 6,
+      "section": "earlier",
+      "title": "Brand Manager, Moët & Chandon",
+      "company": "Moët Hennessy USA (LVMH)",
+      "url": "https://www.lvmh.com/en/join-us/our-job-offers/MHUS01325",
+      "location": "New York, NY",
+      "work_arrangement": "Hybrid (3 days a week in the NYC office)",
+      "salary": "$110k–$137k + bonus",
+      "posted": "2026-10-19",
+      "french_tie": "Moët & Chandon is the Champagne house in Épernay, part of Moët Hennessy (LVMH, Paris HQ). You'd turn the Maison's global brand guidelines into US plans with the Maison and Brand Director.",
+      "travel": "Not mentioned in the posting",
+      "why": "Still open from Thursday. A partnerships-heavy brand job: you'd run 360 campaigns across media, creators, PR, and experiences, turn partnerships into programs that drive sales, and deliver luxury guest experiences at the US Open and F1. Your AE strengths in presenting, VIP-facing polish, and juggling many stakeholders line up with what they describe.",
+      "stretch": true,
+      "stretch_note": "The header says a minimum of 3 years, but the profile asks for 5+ years of brand marketing with independent campaign ownership.",
+      "image": {
+        "src": "assets/img/moet-chandon.png",
+        "kind": "logo",
+        "bg": "#ffffff",
+        "source": "https://www.moet.com/ (header logo)"
+      },
+      "from_earlier": true
+    },
+    {
+      "number": 50,
+      "rank": 7,
+      "section": "earlier",
+      "title": "Assistant E-Commerce Manager",
+      "company": "Lacoste",
+      "url": "https://www.linkedin.com/jobs/view/assistant-e-commerce-manager-at-lacoste-4475062765",
+      "location": "New York, NY",
+      "posted": "2026-10-24",
+      "posted_label": "Listed on LinkedIn",
+      "french_tie": "Lacoste is an iconic French brand (part of MF Brands Group). The posting says the role sits at the intersection of local and global teams and gives feedback to global partners.",
+      "travel": "Not mentioned in the posting",
+      "why": "A digital-marketing seat at a French brand: you'd own the digital content calendar across site, email, SMS, app, and paid media, partner with Marketing to line up site storytelling with brand campaigns, and report on content KPIs. Your organized, data-driven AE habits (account plans, QBR reporting) carry over.",
+      "stretch": true,
+      "stretch_note": "Asks for 2+ years in online merchandising or e-commerce operations, plus web analytics (Google Analytics, Adobe). The years fit; the e-commerce-specific experience is the gap.",
+      "image": {
+        "kind": "monogram",
+        "text": "Lacoste",
+        "sub": "Paris",
+        "bg": "#e8f0ea",
+        "fg": "#004526"
+      },
+      "from_earlier": true
+    }
+  ]
+}
