@@ -27,3 +27,4 @@ Added 2026-10-19: sol-de-janeiro.svg from https://soldejaneiro.com/ (header logo
 Added 2026-10-20: lactalis.svg from https://www.lactalis.com/ (site header logo, Lactalis-logo.svg on Lactalis's Contentful CDN).
 
 Added 2026-10-26: opella.svg from https://www.opella.com/en (site header logo, "Opella logo.svg" on Opella's DAM; cream-colored, shown on a dark tile).
+Added 2026-10-27: team-one.png from https://www.teamone-usa.com/ (site header logo on Squarespace CDN, black on transparent; shown on a white tile).

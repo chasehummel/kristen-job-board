@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-27",
+  "checked": "2026-10-27",
+  "title": "LA only: two new agency roles, plus a partnerships job back open",
+  "intro": "Starting today, this page only shows roles based in the LA area, as you asked. Two new roles turned up at Publicis Groupe agencies in Los Angeles (Publicis is headquartered in Paris), and the 160over90 talent and partnerships job in Beverly Hills (#4) is listed again after closing on Oct 9.",
+  "sections": [
+    {
+      "key": "new",
+      "title": "New today",
+      "intro": "Verified live Oct 27 on LinkedIn."
+    },
+    {
+      "key": "earlier",
+      "title": "Still open in LA",
+      "intro": "Spot-checked live this morning."
+    }
+  ],
+  "notes": [
+    "Today's search covered SMCP, Sol de Janeiro, L'Oréal (El Segundo and the rest of LA), CHANEL, Pernod Ricard, Diptyque, Sézane, ba&sh, LVMH/Sephora, and LinkedIn listings across LA County.",
+    "SMCP Group: the LA openings are all boutique roles (Sandro and Maje at Century City, The Grove, Beverly Center, and Topanga), with no marketing roles.",
+    "L'Oréal's only LA marketing opening is still NYX US Marketing (#47). The El Segundo roles from earlier (#2, #3, #8, #20, #22) are no longer listed.",
+    "Also seen but not numbered: CHANEL visual merchandising roles in Beverly Hills and Topanga (retail display, not marketing), a Pernod Ricard Senior Field Marketing Manager in LA (7+ years), and a Team One PR Account Supervisor (5–8 years of PR)."
+  ],
+  "jobs": [
+    {
+      "number": 4,
+      "rank": 1,
+      "section": "earlier",
+      "title": "Senior Account Executive, Talent & Partnerships",
+      "company": "160over90 (Publicis Groupe)",
+      "url": "https://www.linkedin.com/jobs/view/senior-account-executive-talent-partnerships-at-160over90-4478815080",
+      "location": "Beverly Hills, CA",
+      "work_arrangement": "In office 4 days a week",
+      "salary": "$60.8k–$93.6k",
+      "posted_label": "Relisted on LinkedIn",
+      "posted": "2026-10-20",
+      "french_tie": "160over90 is part of Publicis Groupe (Paris HQ).",
+      "travel": "The posting asks for the ability to travel as needed (no destinations named).",
+      "why": "Listed again after it closed on Oct 9, and it's the closest fit in LA. You'd help run a major global brand's athlete and talent partnerships across markets: vetting talent, helping with negotiations and contracts, managing agreements, and coordinating appearances and big global events. It asks for about 3–5 years in account management or partnerships, which matches your Gartner years, contract negotiations, and executive-facing work.",
+      "stretch": false,
+      "status": "Back open: relisted after it closed on Oct 9.",
+      "from_earlier": true,
+      "image": {
+        "src": "assets/img/160over90.svg",
+        "kind": "logo",
+        "bg": "#1c1c1c",
+        "source": "https://www.160over90.com/"
+      }
+    },
+    {
+      "number": 55,
+      "rank": 2,
+      "section": "new",
+      "title": "Specialist, Creator Management",
+      "company": "Influential (Publicis Groupe)",
+      "url": "https://www.linkedin.com/jobs/view/specialist-creator-management-at-influential-4481393343",
+      "location": "Los Angeles, CA",
+      "salary": "$60.8k–$80k",
+      "posted_label": "Listed on LinkedIn",
+      "posted": "2026-10-23",
+      "french_tie": "Influential is a creator-marketing company owned by Publicis Groupe (Paris HQ).",
+      "travel": "Not mentioned in the posting",
+      "why": "A partnerships job at your level: you'd find and vet creators for Fortune 500 brand campaigns, negotiate and contract with them, and manage the campaigns day to day, working with the account, analytics, and operations teams. Your negotiating, relationship-building, and presenting skills from Gartner carry over directly.",
+      "stretch": true,
+      "stretch_note": "Asks for 3+ years in digital, advertising, or creator marketing. Your years fit, but they're in B2B account management. Also, the posting says it expected applications to close Oct 19, but it's still listed, so apply soon.",
+      "image": {
+        "src": "assets/img/influential.png",
+        "kind": "photo",
+        "source": "https://influential.co/ (og:image)"
+      }
+    },
+    {
+      "number": 47,
+      "rank": 3,
+      "section": "earlier",
+      "title": "Manager, US Marketing (NYX Professional Makeup)",
+      "company": "L'Oréal USA",
+      "url": "https://careers.loreal.com/en/job/el-segundo/manager-us-marketing-nyx/3456/46180519616",
+      "location": "El Segundo, CA",
+      "salary": "$90k–$128k + bonus",
+      "posted": "2026-10-20",
+      "french_tie": "L'Oréal (Paris HQ); NYX Professional Makeup is in L'Oréal's Consumer Products Division.",
+      "travel": "Not mentioned in the posting",
+      "why": "Still the best brand-side marketing job in LA. You'd run US go-to-market for launches and 360 campaigns, work with the global marketing team to adapt campaigns for the US, brief creators and agencies, and manage budgets.",
+      "stretch": true,
+      "stretch_note": "Asks for 4–6 years of brand marketing in beauty, CPG, or retail (beauty strongly preferred).",
+      "from_earlier": true,
+      "image": {
+        "src": "assets/img/loreal.jpg",
+        "kind": "photo",
+        "label": "L'ORÉAL",
+        "source": "https://www.loreal.com/en/ (og:image)"
+      }
+    },
+    {
+      "number": 56,
+      "rank": 4,
+      "section": "new",
+      "title": "Associate Producer, Social Media",
+      "company": "Team One (Publicis Groupe)",
+      "url": "https://www.linkedin.com/jobs/view/associate-producer-social-media-at-team-one-4483287945",
+      "location": "Los Angeles, CA (Team One's HQ)",
+      "work_arrangement": "Hybrid",
+      "salary": "$54k–$76.4k",
+      "posted_label": "Listed on LinkedIn",
+      "posted": "2026-10-26",
+      "french_tie": "Team One is Publicis Groupe's luxury-focused agency (Paris HQ). Its clients include Lexus, The Ritz-Carlton, and Moët Hennessy.",
+      "travel": "Not mentioned in the posting",
+      "why": "An entry-level way into a luxury-brand agency in LA. You'd keep Lexus social video projects (Instagram, TikTok, YouTube) on schedule from shoot to finish: calendars, estimates, vendors, and client communication. The coordination side fits your organized, client-facing AE habits, and you produced and promoted a podcast during your Windward internship.",
+      "stretch": true,
+      "stretch_note": "Asks for 1–2 years of production experience focused on social media, ideally at an ad or social agency. This is more production than marketing.",
+      "image": {
+        "src": "assets/img/team-one.png",
+        "kind": "logo",
+        "bg": "#ffffff",
+        "source": "https://www.teamone-usa.com/ (site header logo)"
+      }
+    },
+    {
+      "number": 6,
+      "rank": 5,
+      "section": "earlier",
+      "title": "Fragrance & Beauty Account Executive, Los Angeles",
+      "company": "CHANEL",
+      "url": "https://www.linkedin.com/jobs/view/account-executive-los-angeles-at-chanel-4463552202",
+      "location": "Los Angeles, CA",
+      "salary": "$92.4k–$125.7k base + variable pay",
+      "french_tie": "CHANEL is a French maison (Paris).",
+      "travel": "The posting lists 25–30% travel; it doesn't say international.",
+      "why": "Still open on CHANEL's careers site. It's a brand-side account role at a French luxury house: you'd run promotional programs with retail partners, where your AE skills carry straight over. It leans more toward sales than marketing.",
+      "stretch": true,
+      "from_earlier": true,
+      "image": {
+        "kind": "monogram",
+        "text": "CHANEL",
+        "bg": "#0b0b0b",
+        "fg": "#ffffff",
+        "spaced": true
+      },
+      "work_arrangement": "Home-office based, 25–30% travel",
+      "posted": "2026-09-30",
+      "stretch_note": "Asks for 5+ years."
+    },
+    {
+      "number": 12,
+      "rank": 6,
+      "section": "earlier",
+      "title": "Sales & Education Executive, Blended (Los Angeles)",
+      "company": "Groupe Clarins",
+      "url": "https://www.linkedin.com/jobs/view/sales-education-executive-blended-at-groupe-clarins-4475430526",
+      "location": "Los Angeles, CA",
+      "french_tie": "Groupe Clarins is a family-owned French beauty group (Paris).",
+      "travel": "Not mentioned in the posting",
+      "why": "Still listed. You'd cover Clarins at Sephora, Ulta, and department stores across an LA territory: training store teams, running in-store events, carrying out marketing and merchandising plans, and sending weekly performance recaps. It's a field role at a French beauty group and could be a stepping stone to brand roles.",
+      "stretch": true,
+      "stretch_note": "Asks for 4–6 years of in-store beauty sales experience, and it's more retail sales and education than marketing.",
+      "from_earlier": true,
+      "image": {
+        "kind": "monogram",
+        "text": "CLARINS",
+        "sub": "Paris",
+        "bg": "#b5121b",
+        "fg": "#ffffff",
+        "spaced": true
+      },
+      "work_arrangement": "Hybrid office model",
+      "salary": "$75k",
+      "posted_label": "Listed on LinkedIn",
+      "posted": "2026-10-13"
+    }
+  ]
+}
