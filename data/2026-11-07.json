@@ -1,0 +1,273 @@
+{
+  "date": "2026-11-07",
+  "checked": "2026-11-07",
+  "title": "One new LA marketing role at Sephora",
+  "intro": "One new LA role today: Assistant Marketing Manager, Influencer Marketing & Talent Relations at Sephora (LVMH), hybrid at its LA studio. It's influencer-focused, so it sits below your client and partnerships favorites, which are all still open.",
+  "sections": [
+    {
+      "key": "new",
+      "title": "New today",
+      "intro": "Verified live Nov 7 on Sephora's careers site."
+    },
+    {
+      "key": "earlier",
+      "title": "Still open in LA",
+      "intro": "Spot-checked live this morning."
+    }
+  ],
+  "notes": [
+    "Today's search covered SMCP, CHANEL, Sol de Janeiro, L'Oréal, Coty, Sephora/LVMH, Dior, Hermès, Givenchy, Pernod Ricard, Accor, Publicis Groupe agencies (160over90, Team One, Influential, Spark Foundry, Zenith), and LinkedIn listings across the LA area from the past three days.",
+    "SMCP Group: Greenhouse shows about 57 US/Canada openings, all boutique/store retail. No marketing/brand/partnerships roles.",
+    "Sol de Janeiro: marketing roles are New York Metropolitan only right now (no LA).",
+    "CHANEL LA: besides #6, listings are boutique, fashion expertise, and visual merchandising roles.",
+    "Also seen but not numbered: 160over90 Associate Director, Research & Analytics (Partnerships, Experiential & Culture), Beverly Hills (director-level), and Influential Associate Director, Creator Partnerships & Campaigns (too senior)."
+  ],
+  "jobs": [
+    {
+      "number": 58,
+      "section": "earlier",
+      "rank": 1,
+      "title": "Specialist, Client Management",
+      "company": "Influential (Publicis Groupe)",
+      "url": "https://www.linkedin.com/jobs/view/specialist-client-management-at-influential-4484861462",
+      "location": "Los Angeles, CA",
+      "salary": "$60.8k–$80k",
+      "posted_label": "Listed on LinkedIn",
+      "posted": "2026-10-30",
+      "french_tie": "Influential is a creator-marketing company owned by Publicis Groupe (Paris HQ).",
+      "travel": "Not mentioned in the posting",
+      "why": "Still the most realistic fit: day-to-day brand-client management in beauty, CPG, and retail campaigns, with 3–5 years asked.",
+      "stretch": true,
+      "stretch_note": "Mild stretch: wants digital/advertising or agency account experience.",
+      "from_earlier": true,
+      "status": "You asked for a tailored resume (sent Nov 1).",
+      "image": {
+        "src": "assets/img/influential.png",
+        "kind": "photo",
+        "source": "https://influential.co/ (og:image)"
+      }
+    },
+    {
+      "number": 4,
+      "section": "earlier",
+      "rank": 2,
+      "title": "Senior Account Executive, Talent & Partnerships",
+      "company": "160over90 (Publicis Groupe)",
+      "url": "https://www.linkedin.com/jobs/view/senior-account-executive-talent-partnerships-at-160over90-4478815080",
+      "location": "Beverly Hills, CA",
+      "work_arrangement": "In office 4 days a week",
+      "salary": "$60.8k–$93.6k",
+      "posted_label": "Relisted on LinkedIn",
+      "posted": "2026-10-20",
+      "french_tie": "160over90 is part of Publicis Groupe (Paris HQ).",
+      "travel": "The posting asks for the ability to travel as needed (no destinations named).",
+      "why": "Still the closest AE-level talent and partnerships match. Same agency as today's new Olympic role.",
+      "stretch": false,
+      "from_earlier": true,
+      "status": "You asked for a tailored resume (sent Nov 1). Heads-up: 4 days a week in office.",
+      "image": {
+        "src": "assets/img/160over90.svg",
+        "kind": "logo",
+        "bg": "#1c1c1c",
+        "source": "https://www.160over90.com/"
+      }
+    },
+    {
+      "number": 63,
+      "section": "earlier",
+      "rank": 3,
+      "title": "Olympic Account Manager, Partnerships",
+      "company": "160over90 (Publicis Groupe)",
+      "url": "https://www.linkedin.com/jobs/view/olympic-account-manager-partnerships-at-160over90-4478802518",
+      "location": "Beverly Hills, CA (also listed for New York)",
+      "salary": "$70k–$90k",
+      "posted_label": "Listed on LinkedIn about a day ago",
+      "posted": "2026-11-05",
+      "french_tie": "160over90 is part of Publicis Groupe (Paris HQ).",
+      "travel": "The posting asks for the ability to travel 30% of the time (no destinations named).",
+      "why": "A partnerships account role tied to LA28 and Team USA: you'd manage a National Governing Body sponsorship for a financial-services client, keep rights-holder approvals moving, coordinate activations across marketing, hospitality, and events, and put together client-ready decks and plans. Relationship management and executive-facing work carry over from Gartner, and it's at the same Publicis agency as the Talent & Partnerships role you liked (#4).",
+      "stretch": true,
+      "stretch_note": "Asks for 5+ years in sponsorship, partnership, account, or sports marketing (agency, property, rights holder, or brand). Applications are expected to close around Nov 27, 2026.",
+      "status": "New yesterday; applications expected to close around Nov 27.",
+      "image": {
+        "src": "assets/img/160over90.svg",
+        "kind": "logo",
+        "bg": "#1c1c1c",
+        "source": "https://www.160over90.com/"
+      }
+    },
+    {
+      "number": 57,
+      "section": "earlier",
+      "rank": 4,
+      "title": "Account Supervisor, Experiential",
+      "company": "Team One (Publicis Groupe)",
+      "url": "https://www.linkedin.com/jobs/view/account-supervisor-experiential-at-team-one-4483608103",
+      "location": "Los Angeles, CA (Team One's HQ)",
+      "salary": "$75k–$115k",
+      "posted_label": "Listed on LinkedIn",
+      "posted": "2026-10-27",
+      "french_tie": "Team One is part of Publicis Groupe (Paris HQ).",
+      "travel": "Up to 25% travel within the Western US, plus some nights and weekends for live events (no international travel mentioned).",
+      "why": "The music, culinary, and culture experiential mix you liked, running Lexus Western-region programs and partnerships.",
+      "stretch": true,
+      "stretch_note": "Asks for 5–7 years of event- or sports-marketing experience. Applications close around Nov 30.",
+      "from_earlier": true,
+      "status": "You asked for a tailored resume (sent Nov 1).",
+      "image": {
+        "src": "assets/img/team-one.png",
+        "kind": "logo",
+        "bg": "#ffffff",
+        "source": "https://www.teamone-usa.com/ (site header logo)"
+      }
+    },
+    {
+      "number": 61,
+      "section": "earlier",
+      "rank": 5,
+      "title": "Account Executive, Los Angeles North (Luxury Field Sales)",
+      "company": "Coty",
+      "url": "https://www.linkedin.com/jobs/view/account-executive-los-angeles-north-at-coty-4480708824",
+      "location": "Los Angeles, CA (North LA territory)",
+      "work_arrangement": "Home-office based with one office day a week; up to 80% travel between stores in the LA area",
+      "salary": "$90k–$115k base",
+      "posted_label": "Listed on LinkedIn",
+      "french_tie": "Coty was founded in Paris by perfumer François Coty and is also listed on Euronext Paris; it runs prestige fragrance and beauty for luxury fashion houses.",
+      "travel": "Local only: up to 80% of the time within the LA area (no international travel mentioned)",
+      "why": "Still the closest luxury fragrance/beauty AE twin to the CHANEL role you liked, mostly home-office.",
+      "stretch": true,
+      "stretch_note": "Asks for 3–5 years including department-store channel experience.",
+      "from_earlier": true,
+      "image": {
+        "kind": "monogram",
+        "text": "COTY",
+        "sub": "Paris · 1904",
+        "bg": "#111111",
+        "fg": "#ffffff",
+        "spaced": true
+      }
+    },
+    {
+      "number": 6,
+      "section": "earlier",
+      "rank": 6,
+      "title": "Fragrance & Beauty Account Executive, Los Angeles",
+      "company": "CHANEL",
+      "url": "https://www.linkedin.com/jobs/view/account-executive-los-angeles-at-chanel-4463552202",
+      "location": "Los Angeles, CA",
+      "salary": "$92.4k–$125.7k base + variable pay",
+      "french_tie": "CHANEL is a French maison (Paris).",
+      "travel": "The posting lists 25–30% travel; it doesn't say international.",
+      "why": "Still open. Brand-side retail-partner account role at a French luxury house; home-office based.",
+      "stretch": true,
+      "stretch_note": "Asks for 5+ years.",
+      "from_earlier": true,
+      "work_arrangement": "Home-office based, 25–30% travel",
+      "posted": "2026-09-30",
+      "status": "You asked for a tailored resume (sent Nov 1).",
+      "image": {
+        "kind": "monogram",
+        "text": "CHANEL",
+        "bg": "#0b0b0b",
+        "fg": "#ffffff",
+        "spaced": true
+      }
+    },
+    {
+      "number": 47,
+      "section": "earlier",
+      "rank": 7,
+      "title": "Manager, US Marketing (NYX Professional Makeup)",
+      "company": "L'Oréal USA",
+      "url": "https://careers.loreal.com/en/job/el-segundo/manager-us-marketing-nyx/3456/46180519616",
+      "location": "El Segundo, CA",
+      "salary": "$90k–$128k + bonus",
+      "posted": "2026-10-20",
+      "french_tie": "L'Oréal (Paris HQ); NYX Professional Makeup is in L'Oréal's Consumer Products Division.",
+      "travel": "Not mentioned in the posting",
+      "why": "Still the best brand-side marketing job in LA on L'Oréal's board.",
+      "stretch": true,
+      "stretch_note": "Asks for 4–6 years of brand marketing in beauty, CPG, or retail.",
+      "from_earlier": true,
+      "image": {
+        "src": "assets/img/loreal.jpg",
+        "kind": "photo",
+        "label": "L'ORÉAL",
+        "source": "https://www.loreal.com/en/ (og:image)"
+      }
+    },
+    {
+      "number": 55,
+      "section": "earlier",
+      "rank": 8,
+      "title": "Specialist, Creator Management",
+      "company": "Influential (Publicis Groupe)",
+      "url": "https://www.linkedin.com/jobs/view/specialist-creator-management-at-influential-4481393343",
+      "location": "Los Angeles, CA",
+      "salary": "$60.8k–$80k",
+      "posted_label": "Listed on LinkedIn",
+      "posted": "2026-10-23",
+      "french_tie": "Influential is a creator-marketing company owned by Publicis Groupe (Paris HQ).",
+      "travel": "Not mentioned in the posting",
+      "why": "Creator partnerships at your level; you requested a tailored resume even though pure creator roles rank lower for you.",
+      "stretch": true,
+      "stretch_note": "Asks for 3+ years in digital, advertising, or creator marketing.",
+      "from_earlier": true,
+      "status": "You asked for a tailored resume (sent Nov 1).",
+      "image": {
+        "src": "assets/img/influential.png",
+        "kind": "photo",
+        "source": "https://influential.co/ (og:image)"
+      }
+    },
+    {
+      "number": 64,
+      "section": "new",
+      "title": "Assistant Marketing Manager, Influencer Marketing & Talent Relations (LA Studio)",
+      "company": "Sephora (LVMH)",
+      "url": "https://join.sephora.com/careers/job/790315439185",
+      "location": "Los Angeles, CA (Sephora LA Studio, 6824 Lexington Ave)",
+      "work_arrangement": "Hybrid",
+      "salary": "$82k–$91.9k base",
+      "posted_label": "Listed on Sephora careers",
+      "posted_extra": "(verified live Nov 7)",
+      "french_tie": "Sephora is owned by LVMH (Paris HQ).",
+      "why": "Brand-side marketing at Sephora's LA studio: you'd run sponsored influencer campaigns end to end, partner with Brand Marketing and agency teams, own the logistics (briefs, trackers, budgets, invoices, reporting), and keep internal stakeholders and outside partners coordinated. The relationship-building and organization from your Gartner work carry over, but it is an influencer-focused job, which you said is lower on your list, so it's ranked below the client and partnerships roles.",
+      "stretch": true,
+      "stretch_note": "Asks for 3–5 years in influencer or social marketing (beauty preferred), and names talent-agency backgrounds (CAA, WME, Gersh, UTA) as ideal.",
+      "image": {
+        "kind": "monogram",
+        "text": "SEPHORA",
+        "bg": "#0b0b0b"
+      },
+      "rank": 9
+    },
+    {
+      "number": 60,
+      "section": "earlier",
+      "rank": 10,
+      "title": "Private Event Sales Manager, Outlets",
+      "company": "Fairmont Breakers Long Beach (Accor)",
+      "url": "https://www.linkedin.com/jobs/view/private-event-sales-manager-at-fairmont-hotels-resorts-4476390549",
+      "location": "Long Beach, CA",
+      "work_arrangement": "Not stated; the duties (property tours, hosting client mixers, working events) are on site at the hotel",
+      "salary": "$72k–$85k + bonus",
+      "posted_label": "Listed on LinkedIn",
+      "posted": "2026-10-28",
+      "french_tie": "Fairmont is an Accor brand (Paris HQ), and Accor runs this hotel under a management contract.",
+      "travel": "Not mentioned in the posting",
+      "why": "Event and culinary sales at Long Beach's restored Breakers — closer to the experiential mix you liked than to social media.",
+      "stretch": true,
+      "stretch_note": "Asks for 2+ years of event sales at a luxury hotel or restaurant plus Opera Cloud.",
+      "from_earlier": true,
+      "image": {
+        "kind": "monogram",
+        "text": "FAIRMONT",
+        "sub": "Breakers",
+        "bg": "#1f2a44",
+        "fg": "#ffffff",
+        "spaced": true
+      }
+    }
+  ]
+}
